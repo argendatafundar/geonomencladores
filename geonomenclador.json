@@ -1,0 +1,6128 @@
+[
+  {
+    "geocodigo": "ABW",
+    "name_long": "Aruba",
+    "name_short": "Aruba",
+    "iso_2": "AW"
+  },
+  {
+    "geocodigo": "AFE",
+    "name_long": "África Oriental y Meridional",
+    "name_short": "África Oriental y Meridional",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AFG",
+    "name_long": "Afganistán",
+    "name_short": "Afganistán",
+    "iso_2": "AF"
+  },
+  {
+    "geocodigo": "AFW",
+    "name_long": "África Occidental y Central",
+    "name_short": "África Occidental y Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AGO",
+    "name_long": "Angola",
+    "name_short": "Angola",
+    "iso_2": "AO"
+  },
+  {
+    "geocodigo": "AIA",
+    "name_long": "Anguila",
+    "name_short": "Anguila",
+    "iso_2": "AI"
+  },
+  {
+    "geocodigo": "ALA",
+    "name_long": "Islas Åland",
+    "name_short": "Islas Åland",
+    "iso_2": "AX"
+  },
+  {
+    "geocodigo": "ALB",
+    "name_long": "Albania",
+    "name_short": "Albania",
+    "iso_2": "AL"
+  },
+  {
+    "geocodigo": "AND",
+    "name_long": "Andorra",
+    "name_short": "Andorra",
+    "iso_2": "AD"
+  },
+  {
+    "geocodigo": "ANT",
+    "name_long": "Antillas Holandesas",
+    "name_short": "Antillas Holandesas",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ARB",
+    "name_long": "Mundo árabe",
+    "name_short": "Mundo árabe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ARE",
+    "name_long": "Emiratos Árabes Unidos",
+    "name_short": "Emiratos Árabes Unidos",
+    "iso_2": "AE"
+  },
+  {
+    "geocodigo": "ARG",
+    "name_long": "Argentina",
+    "name_short": "Argentina",
+    "iso_2": "AR"
+  },
+  {
+    "geocodigo": "ARM",
+    "name_long": "Armenia",
+    "name_short": "Armenia",
+    "iso_2": "AM"
+  },
+  {
+    "geocodigo": "ASM",
+    "name_long": "Samoa Americana",
+    "name_short": "Samoa Americana",
+    "iso_2": "AS"
+  },
+  {
+    "geocodigo": "ATA",
+    "name_long": "Antártida",
+    "name_short": "Antártida",
+    "iso_2": "AQ"
+  },
+  {
+    "geocodigo": "ATF",
+    "name_long": "Tierras Australes Francesas",
+    "name_short": "Tierras Australes Francesas",
+    "iso_2": "TF"
+  },
+  {
+    "geocodigo": "ATG",
+    "name_long": "Antigua y Barbuda",
+    "name_short": "Antigua y Barbuda",
+    "iso_2": "AG"
+  },
+  {
+    "geocodigo": "AUS",
+    "name_long": "Australia",
+    "name_short": "Australia",
+    "iso_2": "AU"
+  },
+  {
+    "geocodigo": "AUT",
+    "name_long": "Austria",
+    "name_short": "Austria",
+    "iso_2": "AT"
+  },
+  {
+    "geocodigo": "AZE",
+    "name_long": "Azerbaiyán",
+    "name_short": "Azerbaiyán",
+    "iso_2": "AZ"
+  },
+  {
+    "geocodigo": "BAT",
+    "name_long": "Antártida Británica",
+    "name_short": "Antártida Británica",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "BDI",
+    "name_long": "Burundi",
+    "name_short": "Burundi",
+    "iso_2": "BI"
+  },
+  {
+    "geocodigo": "BEL",
+    "name_long": "Bélgica",
+    "name_short": "Bélgica",
+    "iso_2": "BE"
+  },
+  {
+    "geocodigo": "BEN",
+    "name_long": "Benin",
+    "name_short": "Benin",
+    "iso_2": "BJ"
+  },
+  {
+    "geocodigo": "BES",
+    "name_long": "Bonaire",
+    "name_short": "Bonaire",
+    "iso_2": "BQ"
+  },
+  {
+    "geocodigo": "BFA",
+    "name_long": "Burkina Faso",
+    "name_short": "Burkina Faso",
+    "iso_2": "BF"
+  },
+  {
+    "geocodigo": "BGD",
+    "name_long": "Bangladesh",
+    "name_short": "Bangladesh",
+    "iso_2": "BD"
+  },
+  {
+    "geocodigo": "BGR",
+    "name_long": "Bulgaria",
+    "name_short": "Bulgaria",
+    "iso_2": "BG"
+  },
+  {
+    "geocodigo": "BHR",
+    "name_long": "Bahrein",
+    "name_short": "Bahrein",
+    "iso_2": "BH"
+  },
+  {
+    "geocodigo": "BHS",
+    "name_long": "Bahamas",
+    "name_short": "Bahamas",
+    "iso_2": "BS"
+  },
+  {
+    "geocodigo": "BIH",
+    "name_long": "Bosnia y Herzegovina",
+    "name_short": "Bosnia y Herzegovina",
+    "iso_2": "BA"
+  },
+  {
+    "geocodigo": "BLM",
+    "name_long": "San Barthélemy",
+    "name_short": "San Barthélemy",
+    "iso_2": "BL"
+  },
+  {
+    "geocodigo": "BLR",
+    "name_long": "Belarús",
+    "name_short": "Belarús",
+    "iso_2": "BY"
+  },
+  {
+    "geocodigo": "BLX",
+    "name_long": "Bélgica-Luxemburgo",
+    "name_short": "Bélgica-Luxemburgo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "BLZ",
+    "name_long": "Belice",
+    "name_short": "Belice",
+    "iso_2": "BZ"
+  },
+  {
+    "geocodigo": "BMU",
+    "name_long": "Bermuda",
+    "name_short": "Bermuda",
+    "iso_2": "BM"
+  },
+  {
+    "geocodigo": "BOL",
+    "name_long": "Bolivia",
+    "name_short": "Bolivia",
+    "iso_2": "BO"
+  },
+  {
+    "geocodigo": "BRA",
+    "name_long": "Brasil",
+    "name_short": "Brasil",
+    "iso_2": "BR"
+  },
+  {
+    "geocodigo": "BRB",
+    "name_long": "Barbados",
+    "name_short": "Barbados",
+    "iso_2": "BB"
+  },
+  {
+    "geocodigo": "BRN",
+    "name_long": "Brunei",
+    "name_short": "Brunei",
+    "iso_2": "BN"
+  },
+  {
+    "geocodigo": "BTN",
+    "name_long": "Bhután",
+    "name_short": "Bhután",
+    "iso_2": "BT"
+  },
+  {
+    "geocodigo": "BVT",
+    "name_long": "Bouvet",
+    "name_short": "Bouvet",
+    "iso_2": "BV"
+  },
+  {
+    "geocodigo": "BWA",
+    "name_long": "Botswana",
+    "name_short": "Botswana",
+    "iso_2": "BW"
+  },
+  {
+    "geocodigo": "CAF",
+    "name_long": "Rep. Centroafricana",
+    "name_short": "Rep. Centroafricana",
+    "iso_2": "CF"
+  },
+  {
+    "geocodigo": "CAN",
+    "name_long": "Canadá",
+    "name_short": "Canadá",
+    "iso_2": "CA"
+  },
+  {
+    "geocodigo": "CCK",
+    "name_long": "Islas Cocos",
+    "name_short": "Islas Cocos",
+    "iso_2": "CC"
+  },
+  {
+    "geocodigo": "CEB",
+    "name_long": "Europa Central y Bálticos",
+    "name_short": "Europa Central y Bálticos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CEM",
+    "name_long": "Comunidad Económica y Monetaria de Africa Central (CEMAC)",
+    "name_short": "Comunidad Económica y Monetaria de Africa Central (CEMAC)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CHE",
+    "name_long": "Suiza",
+    "name_short": "Suiza",
+    "iso_2": "CH"
+  },
+  {
+    "geocodigo": "CHI",
+    "name_long": "Islas Del Canal",
+    "name_short": "Islas Del Canal",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CHL",
+    "name_long": "Chile",
+    "name_short": "Chile",
+    "iso_2": "CL"
+  },
+  {
+    "geocodigo": "CHN",
+    "name_long": "China",
+    "name_short": "China",
+    "iso_2": "CN"
+  },
+  {
+    "geocodigo": "CIV",
+    "name_long": "Costa de Marfil",
+    "name_short": "Costa de Marfil",
+    "iso_2": "CI"
+  },
+  {
+    "geocodigo": "CMR",
+    "name_long": "Camerún",
+    "name_short": "Camerún",
+    "iso_2": "CM"
+  },
+  {
+    "geocodigo": "COD",
+    "name_long": "Rep. Dem. Congo",
+    "name_short": "Rep. Dem. Congo",
+    "iso_2": "CD"
+  },
+  {
+    "geocodigo": "COG",
+    "name_long": "Congo",
+    "name_short": "Congo",
+    "iso_2": "CG"
+  },
+  {
+    "geocodigo": "COK",
+    "name_long": "Islas Cook",
+    "name_short": "Islas Cook",
+    "iso_2": "CK"
+  },
+  {
+    "geocodigo": "COL",
+    "name_long": "Colombia",
+    "name_short": "Colombia",
+    "iso_2": "CO"
+  },
+  {
+    "geocodigo": "COM",
+    "name_long": "Comoras",
+    "name_short": "Comoras",
+    "iso_2": "KM"
+  },
+  {
+    "geocodigo": "CPV",
+    "name_long": "Cabo Verde",
+    "name_short": "Cabo Verde",
+    "iso_2": "CV"
+  },
+  {
+    "geocodigo": "CRI",
+    "name_long": "Costa Rica",
+    "name_short": "Costa Rica",
+    "iso_2": "CR"
+  },
+  {
+    "geocodigo": "CSK",
+    "name_long": "Checoslovaquia",
+    "name_short": "Checoslovaquia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CSS",
+    "name_long": "Pequeños Estados del Caribe",
+    "name_short": "Pequeños Estados del Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CUB",
+    "name_long": "Cuba",
+    "name_short": "Cuba",
+    "iso_2": "CU"
+  },
+  {
+    "geocodigo": "CUW",
+    "name_long": "Curazao",
+    "name_short": "Curazao",
+    "iso_2": "CW"
+  },
+  {
+    "geocodigo": "CXR",
+    "name_long": "Isla Christmas",
+    "name_short": "Isla Christmas",
+    "iso_2": "CX"
+  },
+  {
+    "geocodigo": "CYM",
+    "name_long": "Islas Caimán",
+    "name_short": "Islas Caimán",
+    "iso_2": "KY"
+  },
+  {
+    "geocodigo": "CYP",
+    "name_long": "Chipre",
+    "name_short": "Chipre",
+    "iso_2": "CY"
+  },
+  {
+    "geocodigo": "CZE",
+    "name_long": "Chequia",
+    "name_short": "Chequia",
+    "iso_2": "CZ"
+  },
+  {
+    "geocodigo": "DDR",
+    "name_long": "Rep. Dem. Alemana",
+    "name_short": "Rep. Dem. Alemana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DEU",
+    "name_long": "Alemania",
+    "name_short": "Alemania",
+    "iso_2": "DE"
+  },
+  {
+    "geocodigo": "DJI",
+    "name_long": "Djibouti",
+    "name_short": "Djibouti",
+    "iso_2": "DJ"
+  },
+  {
+    "geocodigo": "DMA",
+    "name_long": "Dominica",
+    "name_short": "Dominica",
+    "iso_2": "DM"
+  },
+  {
+    "geocodigo": "DNK",
+    "name_long": "Dinamarca",
+    "name_short": "Dinamarca",
+    "iso_2": "DK"
+  },
+  {
+    "geocodigo": "DOM",
+    "name_long": "Rep. Dominicana",
+    "name_short": "Rep. Dominicana",
+    "iso_2": "DO"
+  },
+  {
+    "geocodigo": "DZA",
+    "name_long": "Argelia",
+    "name_short": "Argelia",
+    "iso_2": "DZ"
+  },
+  {
+    "geocodigo": "EAP",
+    "name_long": "Este de Asia y Pacífico",
+    "name_short": "Este de Asia y Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EAR",
+    "name_long": "Bono demográfico temprano",
+    "name_short": "Bono demográfico temprano",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EAS",
+    "name_long": "Este de Asia y Pacífico",
+    "name_short": "Este de Asia y Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ECA",
+    "name_long": "Europa y Asia Central",
+    "name_short": "Europa y Asia Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ECS",
+    "name_long": "Europa y Asia Central",
+    "name_short": "Europa y Asia Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ECU",
+    "name_long": "Ecuador",
+    "name_short": "Ecuador",
+    "iso_2": "EC"
+  },
+  {
+    "geocodigo": "EGY",
+    "name_long": "Egipto",
+    "name_short": "Egipto",
+    "iso_2": "EG"
+  },
+  {
+    "geocodigo": "EMU",
+    "name_long": "Eurozona",
+    "name_short": "Eurozona",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ERI",
+    "name_long": "Eritrea",
+    "name_short": "Eritrea",
+    "iso_2": "ER"
+  },
+  {
+    "geocodigo": "ESH",
+    "name_long": "Sáhara Occidental",
+    "name_short": "Sáhara Occidental",
+    "iso_2": "EH"
+  },
+  {
+    "geocodigo": "ESP",
+    "name_long": "España",
+    "name_short": "España",
+    "iso_2": "ES"
+  },
+  {
+    "geocodigo": "EST",
+    "name_long": "Estonia",
+    "name_short": "Estonia",
+    "iso_2": "EE"
+  },
+  {
+    "geocodigo": "ETF",
+    "name_long": "Etiopía (incluye Eritrea)",
+    "name_short": "Etiopía (incluye Eritrea)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ETH",
+    "name_long": "Etiopía",
+    "name_short": "Etiopía",
+    "iso_2": "ET"
+  },
+  {
+    "geocodigo": "EUU",
+    "name_long": "Unión Europea",
+    "name_short": "Unión Europea",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F164",
+    "name_long": "Territorio en Fideicomiso de las Islas del Pacífico",
+    "name_short": "Territorio en Fideicomiso de las Islas del Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F206",
+    "name_long": "Sudán (Ex)",
+    "name_short": "Sudán (Ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F285",
+    "name_long": "Sark",
+    "name_short": "Sark",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F336",
+    "name_long": "América del Norte y Central",
+    "name_short": "América del Norte y Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F351",
+    "name_long": "China",
+    "name_short": "China",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F420",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F429",
+    "name_long": "Norte de África",
+    "name_short": "Norte de África",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5101",
+    "name_long": "África Oriental",
+    "name_short": "África Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5102",
+    "name_long": "África Media",
+    "name_short": "África Media",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5103",
+    "name_long": "África del Norte",
+    "name_short": "África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5104",
+    "name_long": "África del Sur",
+    "name_short": "África del Sur",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5105",
+    "name_long": "África Occidental",
+    "name_short": "África Occidental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5203",
+    "name_long": "América del Norte",
+    "name_short": "América del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5204",
+    "name_long": "Centroamérica",
+    "name_short": "Centroamérica",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5205",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5206",
+    "name_long": "Caribe",
+    "name_short": "Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5207",
+    "name_long": "Sudamérica",
+    "name_short": "Sudamérica",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5208",
+    "name_long": "América del Norte y Europa",
+    "name_short": "América del Norte y Europa",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5300",
+    "name_long": "Asia",
+    "name_short": "Asia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5301",
+    "name_long": "Asia Central",
+    "name_short": "Asia Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5302",
+    "name_long": "Asia Oriental",
+    "name_short": "Asia Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5303",
+    "name_long": "Asia del Sur",
+    "name_short": "Asia del Sur",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5304",
+    "name_long": "Sudeste Asiático",
+    "name_short": "Sudeste Asiático",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5305",
+    "name_long": "Asia Occidental",
+    "name_short": "Asia Occidental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5306",
+    "name_long": "Asia Central y Asia Meridional",
+    "name_short": "Asia Central y Asia Meridional",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5307",
+    "name_long": "Asia Oriental y Asia Sudoriental",
+    "name_short": "Asia Oriental y Asia Sudoriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5308",
+    "name_long": "Asia Occidental y África del Norte",
+    "name_short": "Asia Occidental y África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5401",
+    "name_long": "Europa del Este",
+    "name_short": "Europa del Este",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5402",
+    "name_long": "Norte de Europa",
+    "name_short": "Norte de Europa",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5403",
+    "name_long": "Europa del Sur",
+    "name_short": "Europa del Sur",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5404",
+    "name_long": "Europa Oriental",
+    "name_short": "Europa Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5500",
+    "name_long": "Oceanía",
+    "name_short": "Oceanía",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5501",
+    "name_long": "Australia y Nueva Zelanda",
+    "name_short": "Australia y Nueva Zelanda",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5502",
+    "name_long": "Melanesia",
+    "name_short": "Melanesia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5504",
+    "name_long": "Polinesia",
+    "name_short": "Polinesia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5600",
+    "name_long": "Región Antártica",
+    "name_short": "Región Antártica",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5707",
+    "name_long": "Unión Europea (27)",
+    "name_short": "Unión Europea (27)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5801",
+    "name_long": "Países menos desarrollados",
+    "name_short": "Países menos desarrollados",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5802",
+    "name_long": "Países en desarrollo sin litoral",
+    "name_short": "Países en desarrollo sin litoral",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5803",
+    "name_long": "Pequeños Estados insulares",
+    "name_short": "Pequeños Estados insulares",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5807",
+    "name_long": "Oceanía (excluyendo Australia y Nueva Zelanda)",
+    "name_short": "Oceanía (excluyendo Australia y Nueva Zelanda)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5810",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5815",
+    "name_long": "Países de bajos ingresos ",
+    "name_short": "Países de bajos ingresos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5817",
+    "name_long": "Países en desarrollo importadores netos de alimentos",
+    "name_short": "Países en desarrollo importadores netos de alimentos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5825",
+    "name_long": "Asia Oriental (excluido Japón)",
+    "name_short": "Asia Oriental (excluido Japón)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5826",
+    "name_long": "Regiones en desarrollo",
+    "name_short": "Regiones en desarrollo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5827",
+    "name_long": "Regiones desarrolladas",
+    "name_short": "Regiones desarrolladas",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5828",
+    "name_long": "Asia Occidental",
+    "name_short": "Asia Occidental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5829",
+    "name_long": "Asia Oriental (excluyendo Japón y China)",
+    "name_short": "Asia Oriental (excluyendo Japón y China)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5848",
+    "name_long": "Países del Anexo I",
+    "name_short": "Países del Anexo I",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5849",
+    "name_long": "Países no Incluidos en el Anexo I",
+    "name_short": "Países no Incluidos en el Anexo I",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5855",
+    "name_long": "Asia Meridional (excluida India)",
+    "name_short": "Asia Meridional (excluida India)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5857",
+    "name_long": "Cáucaso y Asia Central",
+    "name_short": "Cáucaso y Asia Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5858",
+    "name_long": "Economías de bajos ingresos",
+    "name_short": "Economías de bajos ingresos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5859",
+    "name_long": "Economías de ingresos medianos bajos",
+    "name_short": "Economías de ingresos medianos bajos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5873",
+    "name_long": "OCDE",
+    "name_short": "OCDE",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F62",
+    "name_long": "República Democrática Popular Etiopía",
+    "name_short": "República Democrática Popular Etiopía",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F78",
+    "name_long": "República Federal de Alemania (ex)",
+    "name_short": "República Federal de Alemania (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F9010",
+    "name_long": "Economías de altos ingresos",
+    "name_short": "Economías de altos ingresos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F9011",
+    "name_long": "Economías de ingresos medianos y altos",
+    "name_short": "Economías de ingresos medianos y altos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "FCS",
+    "name_long": "Situaciones frágiles y afectadas por conflictos",
+    "name_short": "Situaciones frágiles y afectadas por conflictos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "FIN",
+    "name_long": "Finlandia",
+    "name_short": "Finlandia",
+    "iso_2": "FI"
+  },
+  {
+    "geocodigo": "FJI",
+    "name_long": "Fiji",
+    "name_short": "Fiji",
+    "iso_2": "FJ"
+  },
+  {
+    "geocodigo": "FLK",
+    "name_long": "Islas Malvinas",
+    "name_short": "Islas Malvinas",
+    "iso_2": "FK"
+  },
+  {
+    "geocodigo": "FRA",
+    "name_long": "Francia",
+    "name_short": "Francia",
+    "iso_2": "FR"
+  },
+  {
+    "geocodigo": "FRE",
+    "name_long": "Zonas francas",
+    "name_short": "Zonas francas",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "FRO",
+    "name_long": "Islas Feroe",
+    "name_short": "Islas Feroe",
+    "iso_2": "FO"
+  },
+  {
+    "geocodigo": "FSM",
+    "name_long": "Micronesia",
+    "name_short": "Micronesia",
+    "iso_2": "FM"
+  },
+  {
+    "geocodigo": "GAB",
+    "name_long": "Gabón",
+    "name_short": "Gabón",
+    "iso_2": "GA"
+  },
+  {
+    "geocodigo": "GAZ",
+    "name_long": "Franja de Gaza",
+    "name_short": "Franja de Gaza",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "GBR",
+    "name_long": "Reino Unido",
+    "name_short": "Reino Unido",
+    "iso_2": "GB"
+  },
+  {
+    "geocodigo": "GEO",
+    "name_long": "Georgia",
+    "name_short": "Georgia",
+    "iso_2": "GE"
+  },
+  {
+    "geocodigo": "GGY",
+    "name_long": "Guernsey",
+    "name_short": "Guernsey",
+    "iso_2": "GG"
+  },
+  {
+    "geocodigo": "GHA",
+    "name_long": "Ghana",
+    "name_short": "Ghana",
+    "iso_2": "GH"
+  },
+  {
+    "geocodigo": "GIB",
+    "name_long": "Gibraltar",
+    "name_short": "Gibraltar",
+    "iso_2": "GI"
+  },
+  {
+    "geocodigo": "GIN",
+    "name_long": "Guinea",
+    "name_short": "Guinea",
+    "iso_2": "GN"
+  },
+  {
+    "geocodigo": "GLP",
+    "name_long": "Guadalupe",
+    "name_short": "Guadalupe",
+    "iso_2": "GP"
+  },
+  {
+    "geocodigo": "GMB",
+    "name_long": "Gambia",
+    "name_short": "Gambia",
+    "iso_2": "GM"
+  },
+  {
+    "geocodigo": "GNB",
+    "name_long": "Guinea-Bissau",
+    "name_short": "Guinea-Bissau",
+    "iso_2": "GW"
+  },
+  {
+    "geocodigo": "GNQ",
+    "name_long": "Guinea Ecuatorial",
+    "name_short": "Guinea Ecuatorial",
+    "iso_2": "GQ"
+  },
+  {
+    "geocodigo": "GRC",
+    "name_long": "Grecia",
+    "name_short": "Grecia",
+    "iso_2": "GR"
+  },
+  {
+    "geocodigo": "GRD",
+    "name_long": "Granada",
+    "name_short": "Granada",
+    "iso_2": "GD"
+  },
+  {
+    "geocodigo": "GRL",
+    "name_long": "Groenlandia",
+    "name_short": "Groenlandia",
+    "iso_2": "GL"
+  },
+  {
+    "geocodigo": "GTM",
+    "name_long": "Guatemala",
+    "name_short": "Guatemala",
+    "iso_2": "GT"
+  },
+  {
+    "geocodigo": "GUF",
+    "name_long": "Guayana Francesa",
+    "name_short": "Guayana Francesa",
+    "iso_2": "GF"
+  },
+  {
+    "geocodigo": "GUM",
+    "name_long": "Guam",
+    "name_short": "Guam",
+    "iso_2": "GU"
+  },
+  {
+    "geocodigo": "GUY",
+    "name_long": "Guyana",
+    "name_short": "Guyana",
+    "iso_2": "GY"
+  },
+  {
+    "geocodigo": "HIC",
+    "name_long": "Países de altos ingresos",
+    "name_short": "Países de altos ingresos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "HKG",
+    "name_long": "Hong Kong",
+    "name_short": "Hong Kong",
+    "iso_2": "HK"
+  },
+  {
+    "geocodigo": "HMD",
+    "name_long": "Islas Heard y McDonald",
+    "name_short": "Islas Heard y McDonald",
+    "iso_2": "HM"
+  },
+  {
+    "geocodigo": "HND",
+    "name_long": "Honduras",
+    "name_short": "Honduras",
+    "iso_2": "HN"
+  },
+  {
+    "geocodigo": "HPC",
+    "name_long": "Países pobres endeudados",
+    "name_short": "Países pobres endeudados",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "HRV",
+    "name_long": "Croacia",
+    "name_short": "Croacia",
+    "iso_2": "HR"
+  },
+  {
+    "geocodigo": "HTI",
+    "name_long": "Haití",
+    "name_short": "Haití",
+    "iso_2": "HT"
+  },
+  {
+    "geocodigo": "HUN",
+    "name_long": "Hungría",
+    "name_short": "Hungría",
+    "iso_2": "HU"
+  },
+  {
+    "geocodigo": "IBD",
+    "name_long": "Sólo BIRF",
+    "name_short": "Sólo BIRF",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "IBT",
+    "name_long": "AIF",
+    "name_short": "AIF",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "IDA",
+    "name_long": "AIF Total",
+    "name_short": "AIF Total",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "IDB",
+    "name_long": "Mezcla de AIF",
+    "name_short": "Mezcla de AIF",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "IDN",
+    "name_long": "Indonesia",
+    "name_short": "Indonesia",
+    "iso_2": "ID"
+  },
+  {
+    "geocodigo": "IDX",
+    "name_long": "Solo AIF",
+    "name_short": "Solo AIF",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "IMN",
+    "name_long": "Isla de Man",
+    "name_short": "Isla de Man",
+    "iso_2": "IM"
+  },
+  {
+    "geocodigo": "IND",
+    "name_long": "India",
+    "name_short": "India",
+    "iso_2": "IN"
+  },
+  {
+    "geocodigo": "IOT",
+    "name_long": "Territorio Británico del Océano Índico",
+    "name_short": "Territorio Británico del Océano Índico",
+    "iso_2": "IO"
+  },
+  {
+    "geocodigo": "IRL",
+    "name_long": "Irlanda",
+    "name_short": "Irlanda",
+    "iso_2": "IE"
+  },
+  {
+    "geocodigo": "IRN",
+    "name_long": "Irán",
+    "name_short": "Irán",
+    "iso_2": "IR"
+  },
+  {
+    "geocodigo": "IRQ",
+    "name_long": "Iraq",
+    "name_short": "Iraq",
+    "iso_2": "IQ"
+  },
+  {
+    "geocodigo": "ISL",
+    "name_long": "Islandia",
+    "name_short": "Islandia",
+    "iso_2": "IS"
+  },
+  {
+    "geocodigo": "ISR",
+    "name_long": "Israel",
+    "name_short": "Israel",
+    "iso_2": "IL"
+  },
+  {
+    "geocodigo": "ITA",
+    "name_long": "Italia",
+    "name_short": "Italia",
+    "iso_2": "IT"
+  },
+  {
+    "geocodigo": "JAM",
+    "name_long": "Jamaica",
+    "name_short": "Jamaica",
+    "iso_2": "JM"
+  },
+  {
+    "geocodigo": "JEY",
+    "name_long": "Jersey",
+    "name_short": "Jersey",
+    "iso_2": "JE"
+  },
+  {
+    "geocodigo": "JOR",
+    "name_long": "Jordania",
+    "name_short": "Jordania",
+    "iso_2": "JO"
+  },
+  {
+    "geocodigo": "JPN",
+    "name_long": "Japón",
+    "name_short": "Japón",
+    "iso_2": "JP"
+  },
+  {
+    "geocodigo": "JTN",
+    "name_long": "Isla Jhonston",
+    "name_short": "Isla Jhonston",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "KAZ",
+    "name_long": "Kazajstán",
+    "name_short": "Kazajstán",
+    "iso_2": "KZ"
+  },
+  {
+    "geocodigo": "KEN",
+    "name_long": "Kenia",
+    "name_short": "Kenia",
+    "iso_2": "KE"
+  },
+  {
+    "geocodigo": "KGZ",
+    "name_long": "Kirguistán",
+    "name_short": "Kirguistán",
+    "iso_2": "KG"
+  },
+  {
+    "geocodigo": "KHM",
+    "name_long": "Camboya",
+    "name_short": "Camboya",
+    "iso_2": "KH"
+  },
+  {
+    "geocodigo": "KIR",
+    "name_long": "Kiribati",
+    "name_short": "Kiribati",
+    "iso_2": "KI"
+  },
+  {
+    "geocodigo": "KN1",
+    "name_long": "San Cristóbal y Nieves-Anguila-Aru",
+    "name_short": "San Cristóbal y Nieves-Anguila-Aru",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "KNA",
+    "name_long": "Saint Kitts y Nevis",
+    "name_short": "Saint Kitts y Nevis",
+    "iso_2": "KN"
+  },
+  {
+    "geocodigo": "KOR",
+    "name_long": "Corea del Sur",
+    "name_short": "Corea del Sur",
+    "iso_2": "KR"
+  },
+  {
+    "geocodigo": "KWT",
+    "name_long": "Kuwait",
+    "name_short": "Kuwait",
+    "iso_2": "KW"
+  },
+  {
+    "geocodigo": "LAC",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LAO",
+    "name_long": "Laos",
+    "name_short": "Laos",
+    "iso_2": "LA"
+  },
+  {
+    "geocodigo": "LBN",
+    "name_long": "Líbano",
+    "name_short": "Líbano",
+    "iso_2": "LB"
+  },
+  {
+    "geocodigo": "LBR",
+    "name_long": "Liberia",
+    "name_short": "Liberia",
+    "iso_2": "LR"
+  },
+  {
+    "geocodigo": "LBY",
+    "name_long": "Libia",
+    "name_short": "Libia",
+    "iso_2": "LY"
+  },
+  {
+    "geocodigo": "LCA",
+    "name_long": "Santa Lucía",
+    "name_short": "Santa Lucía",
+    "iso_2": "LC"
+  },
+  {
+    "geocodigo": "LCN",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LDC",
+    "name_long": "Países menos desarrollados",
+    "name_short": "Países menos desarrollados",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LIC",
+    "name_long": "Países de bajos ingresos",
+    "name_short": "Países de bajos ingresos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LIE",
+    "name_long": "Liechtenstein",
+    "name_short": "Liechtenstein",
+    "iso_2": "LI"
+  },
+  {
+    "geocodigo": "LKA",
+    "name_long": "Sri Lanka",
+    "name_short": "Sri Lanka",
+    "iso_2": "LK"
+  },
+  {
+    "geocodigo": "LMC",
+    "name_long": "Países de ingreso medio bajo",
+    "name_short": "Países de ingreso medio bajo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LMY",
+    "name_long": "Países de ingreso bajo y medio",
+    "name_short": "Países de ingreso bajo y medio",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LSO",
+    "name_long": "Lesotho",
+    "name_short": "Lesotho",
+    "iso_2": "LS"
+  },
+  {
+    "geocodigo": "LTE",
+    "name_long": "Bono demográfico tardío",
+    "name_short": "Bono demográfico tardío",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LTU",
+    "name_long": "Lituania",
+    "name_short": "Lituania",
+    "iso_2": "LT"
+  },
+  {
+    "geocodigo": "LUX",
+    "name_long": "Luxemburgo",
+    "name_short": "Luxemburgo",
+    "iso_2": "LU"
+  },
+  {
+    "geocodigo": "LVA",
+    "name_long": "Letonia",
+    "name_short": "Letonia",
+    "iso_2": "LV"
+  },
+  {
+    "geocodigo": "MAC",
+    "name_long": "Macao",
+    "name_short": "Macao",
+    "iso_2": "MO"
+  },
+  {
+    "geocodigo": "MAF",
+    "name_long": "San Martín (parte francesa)",
+    "name_short": "San Martín (parte francesa)",
+    "iso_2": "MF"
+  },
+  {
+    "geocodigo": "MAR",
+    "name_long": "Marruecos",
+    "name_short": "Marruecos",
+    "iso_2": "MA"
+  },
+  {
+    "geocodigo": "MCO",
+    "name_long": "Mónaco",
+    "name_short": "Mónaco",
+    "iso_2": "MC"
+  },
+  {
+    "geocodigo": "MDA",
+    "name_long": "Moldavia",
+    "name_short": "Moldavia",
+    "iso_2": "MD"
+  },
+  {
+    "geocodigo": "MDG",
+    "name_long": "Madagascar",
+    "name_short": "Madagascar",
+    "iso_2": "MG"
+  },
+  {
+    "geocodigo": "MDV",
+    "name_long": "Maldivas",
+    "name_short": "Maldivas",
+    "iso_2": "MV"
+  },
+  {
+    "geocodigo": "MEA",
+    "name_long": "Oriente Medio y África del Norte",
+    "name_short": "Oriente Medio y África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MEX",
+    "name_long": "México",
+    "name_short": "México",
+    "iso_2": "MX"
+  },
+  {
+    "geocodigo": "MHL",
+    "name_long": "Islas Marshall",
+    "name_short": "Islas Marshall",
+    "iso_2": "MH"
+  },
+  {
+    "geocodigo": "MIC",
+    "name_long": "Países de ingreso medio",
+    "name_short": "Países de ingreso medio",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MID",
+    "name_long": "Islas Midway",
+    "name_short": "Islas Midway",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MKD",
+    "name_long": "Macedonia del Norte",
+    "name_short": "Macedonia del Norte",
+    "iso_2": "MK"
+  },
+  {
+    "geocodigo": "MLI",
+    "name_long": "Malí",
+    "name_short": "Malí",
+    "iso_2": "ML"
+  },
+  {
+    "geocodigo": "MLT",
+    "name_long": "Malta",
+    "name_short": "Malta",
+    "iso_2": "MT"
+  },
+  {
+    "geocodigo": "MMR",
+    "name_long": "Myanmar",
+    "name_short": "Myanmar",
+    "iso_2": "MM"
+  },
+  {
+    "geocodigo": "MNA",
+    "name_long": "Oriente Medio y África del Norte",
+    "name_short": "Oriente Medio y África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MNE",
+    "name_long": "Montenegro",
+    "name_short": "Montenegro",
+    "iso_2": "ME"
+  },
+  {
+    "geocodigo": "MNG",
+    "name_long": "Mongolia",
+    "name_short": "Mongolia",
+    "iso_2": "MN"
+  },
+  {
+    "geocodigo": "MNP",
+    "name_long": "Islas Marianas",
+    "name_short": "Islas Marianas",
+    "iso_2": "MP"
+  },
+  {
+    "geocodigo": "MOZ",
+    "name_long": "Mozambique",
+    "name_short": "Mozambique",
+    "iso_2": "MZ"
+  },
+  {
+    "geocodigo": "MRT",
+    "name_long": "Mauritania",
+    "name_short": "Mauritania",
+    "iso_2": "MR"
+  },
+  {
+    "geocodigo": "MSR",
+    "name_long": "Montserrat",
+    "name_short": "Montserrat",
+    "iso_2": "MS"
+  },
+  {
+    "geocodigo": "MTQ",
+    "name_long": "Martinica",
+    "name_short": "Martinica",
+    "iso_2": "MQ"
+  },
+  {
+    "geocodigo": "MUS",
+    "name_long": "Mauricio",
+    "name_short": "Mauricio",
+    "iso_2": "MU"
+  },
+  {
+    "geocodigo": "MWI",
+    "name_long": "Malawi",
+    "name_short": "Malawi",
+    "iso_2": "MW"
+  },
+  {
+    "geocodigo": "MYS",
+    "name_long": "Malasia",
+    "name_short": "Malasia",
+    "iso_2": "MY"
+  },
+  {
+    "geocodigo": "MYT",
+    "name_long": "Mayotte",
+    "name_short": "Mayotte",
+    "iso_2": "YT"
+  },
+  {
+    "geocodigo": "NAC",
+    "name_long": "América del Norte",
+    "name_short": "América del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "NAM",
+    "name_long": "Namibia",
+    "name_short": "Namibia",
+    "iso_2": "NA"
+  },
+  {
+    "geocodigo": "NCL",
+    "name_long": "Nueva Caledonia",
+    "name_short": "Nueva Caledonia",
+    "iso_2": "NC"
+  },
+  {
+    "geocodigo": "NER",
+    "name_long": "Níger",
+    "name_short": "Níger",
+    "iso_2": "NE"
+  },
+  {
+    "geocodigo": "NFK",
+    "name_long": "Isla Norfolk",
+    "name_short": "Isla Norfolk",
+    "iso_2": "NF"
+  },
+  {
+    "geocodigo": "NGA",
+    "name_long": "Nigeria",
+    "name_short": "Nigeria",
+    "iso_2": "NG"
+  },
+  {
+    "geocodigo": "NIC",
+    "name_long": "Nicaragua",
+    "name_short": "Nicaragua",
+    "iso_2": "NI"
+  },
+  {
+    "geocodigo": "NIU",
+    "name_long": "Niue",
+    "name_short": "Niue",
+    "iso_2": "NU"
+  },
+  {
+    "geocodigo": "NLD",
+    "name_long": "Países Bajos",
+    "name_short": "Países Bajos",
+    "iso_2": "NL"
+  },
+  {
+    "geocodigo": "NOR",
+    "name_long": "Noruega",
+    "name_short": "Noruega",
+    "iso_2": "NO"
+  },
+  {
+    "geocodigo": "NPL",
+    "name_long": "Nepal",
+    "name_short": "Nepal",
+    "iso_2": "NP"
+  },
+  {
+    "geocodigo": "NRU",
+    "name_long": "Nauru",
+    "name_short": "Nauru",
+    "iso_2": "NR"
+  },
+  {
+    "geocodigo": "NZE",
+    "name_long": "Zona Neutral",
+    "name_short": "Zona Neutral",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "NZL",
+    "name_long": "Nueva Zelandia",
+    "name_short": "Nueva Zelandia",
+    "iso_2": "NZ"
+  },
+  {
+    "geocodigo": "OED",
+    "name_long": "Miembros de la OCDE",
+    "name_short": "Miembros de la OCDE",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "OHI",
+    "name_long": "Países de altos ingresos",
+    "name_short": "Países de altos ingresos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "OMN",
+    "name_long": "Omán",
+    "name_short": "Omán",
+    "iso_2": "OM"
+  },
+  {
+    "geocodigo": "OSS",
+    "name_long": "Otros Estados pequeños",
+    "name_short": "Otros Estados pequeños",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PAK",
+    "name_long": "Pakistán",
+    "name_short": "Pakistán",
+    "iso_2": "PK"
+  },
+  {
+    "geocodigo": "PAN",
+    "name_long": "Panamá",
+    "name_short": "Panamá",
+    "iso_2": "PA"
+  },
+  {
+    "geocodigo": "PCE",
+    "name_long": "Islas del Pacífico",
+    "name_short": "Islas del Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PCN",
+    "name_long": "Pitcairn",
+    "name_short": "Pitcairn",
+    "iso_2": "PN"
+  },
+  {
+    "geocodigo": "PCZ",
+    "name_long": "Zona del Canal de Panamá (ex)",
+    "name_short": "Zona del Canal de Panamá (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PER",
+    "name_long": "Perú",
+    "name_short": "Perú",
+    "iso_2": "PE"
+  },
+  {
+    "geocodigo": "PHL",
+    "name_long": "Filipinas",
+    "name_short": "Filipinas",
+    "iso_2": "PH"
+  },
+  {
+    "geocodigo": "PLW",
+    "name_long": "Palau",
+    "name_short": "Palau",
+    "iso_2": "PW"
+  },
+  {
+    "geocodigo": "PMY",
+    "name_long": "Pen Malasia",
+    "name_short": "Pen Malasia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PNG",
+    "name_long": "Papúa Nueva Guinea",
+    "name_short": "Papúa Nueva Guinea",
+    "iso_2": "PG"
+  },
+  {
+    "geocodigo": "POL",
+    "name_long": "Polonia",
+    "name_short": "Polonia",
+    "iso_2": "PL"
+  },
+  {
+    "geocodigo": "PRE",
+    "name_long": "Países del bono predemográfico",
+    "name_short": "Países del bono predemográfico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PRI",
+    "name_long": "Puerto Rico",
+    "name_short": "Puerto Rico",
+    "iso_2": "PR"
+  },
+  {
+    "geocodigo": "PRK",
+    "name_long": "Corea del Norte",
+    "name_short": "Corea del Norte",
+    "iso_2": "KP"
+  },
+  {
+    "geocodigo": "PRT",
+    "name_long": "Portugal",
+    "name_short": "Portugal",
+    "iso_2": "PT"
+  },
+  {
+    "geocodigo": "PRY",
+    "name_long": "Paraguay",
+    "name_short": "Paraguay",
+    "iso_2": "PY"
+  },
+  {
+    "geocodigo": "PSE",
+    "name_long": "Palestina",
+    "name_short": "Palestina",
+    "iso_2": "PS"
+  },
+  {
+    "geocodigo": "PSS",
+    "name_long": "Pequeños Estados insulares del Pacífico",
+    "name_short": "Pequeños Estados insulares del Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PST",
+    "name_long": "Países del bono posdemográfico",
+    "name_short": "Países del bono posdemográfico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PYF",
+    "name_long": "Polinesia Francesa",
+    "name_short": "Polinesia Francesa",
+    "iso_2": "PF"
+  },
+  {
+    "geocodigo": "QAT",
+    "name_long": "Qatar",
+    "name_short": "Qatar",
+    "iso_2": "QA"
+  },
+  {
+    "geocodigo": "REU",
+    "name_long": "Reunión",
+    "name_short": "Reunión",
+    "iso_2": "RE"
+  },
+  {
+    "geocodigo": "ROU",
+    "name_long": "Rumania",
+    "name_short": "Rumania",
+    "iso_2": "RO"
+  },
+  {
+    "geocodigo": "RUS",
+    "name_long": "Rusia",
+    "name_short": "Rusia",
+    "iso_2": "RU"
+  },
+  {
+    "geocodigo": "RWA",
+    "name_long": "Ruanda",
+    "name_short": "Ruanda",
+    "iso_2": "RW"
+  },
+  {
+    "geocodigo": "RYU",
+    "name_long": "Islas Ryūkyū",
+    "name_short": "Islas Ryūkyū",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SAS",
+    "name_long": "Asia del Sur",
+    "name_short": "Asia del Sur",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SAU",
+    "name_long": "Arabia Saudita",
+    "name_short": "Arabia Saudita",
+    "iso_2": "SA"
+  },
+  {
+    "geocodigo": "SBH",
+    "name_long": "Sabá",
+    "name_short": "Sabá",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SCG",
+    "name_long": "Serbia y Montenegro",
+    "name_short": "Serbia y Montenegro",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SDN",
+    "name_long": "Sudán",
+    "name_short": "Sudán",
+    "iso_2": "SD"
+  },
+  {
+    "geocodigo": "SEN",
+    "name_long": "Senegal",
+    "name_short": "Senegal",
+    "iso_2": "SN"
+  },
+  {
+    "geocodigo": "SER",
+    "name_long": "Yugoslavia",
+    "name_short": "Yugoslavia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SGP",
+    "name_long": "Singapur",
+    "name_short": "Singapur",
+    "iso_2": "SG"
+  },
+  {
+    "geocodigo": "SGS",
+    "name_long": "Islas Georgias y Sandwich del Sur",
+    "name_short": "Islas Georgias y Sandwich del Sur",
+    "iso_2": "GS"
+  },
+  {
+    "geocodigo": "SHN",
+    "name_long": "Santa Elena",
+    "name_short": "Santa Elena",
+    "iso_2": "SH"
+  },
+  {
+    "geocodigo": "SIK",
+    "name_long": "Sikkim",
+    "name_short": "Sikkim",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SJM",
+    "name_long": "Islas Svalbard y Jan Mayen",
+    "name_short": "Islas Svalbard y Jan Mayen",
+    "iso_2": "SJ"
+  },
+  {
+    "geocodigo": "SLB",
+    "name_long": "Islas Salomón",
+    "name_short": "Islas Salomón",
+    "iso_2": "SB"
+  },
+  {
+    "geocodigo": "SLE",
+    "name_long": "Sierra Leona",
+    "name_short": "Sierra Leona",
+    "iso_2": "SL"
+  },
+  {
+    "geocodigo": "SLV",
+    "name_long": "El Salvador",
+    "name_short": "El Salvador",
+    "iso_2": "SV"
+  },
+  {
+    "geocodigo": "SMR",
+    "name_long": "San Marino",
+    "name_short": "San Marino",
+    "iso_2": "SM"
+  },
+  {
+    "geocodigo": "SOM",
+    "name_long": "Somalia",
+    "name_short": "Somalia",
+    "iso_2": "SO"
+  },
+  {
+    "geocodigo": "SPE",
+    "name_long": "Categorías especiales",
+    "name_short": "Categorías especiales",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SPM",
+    "name_long": "San Pedro y Miquelón",
+    "name_short": "San Pedro y Miquelón",
+    "iso_2": "PM"
+  },
+  {
+    "geocodigo": "SRB",
+    "name_long": "Serbia",
+    "name_short": "Serbia",
+    "iso_2": "RS"
+  },
+  {
+    "geocodigo": "SSA",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SSD",
+    "name_long": "Sudán del Sur",
+    "name_short": "Sudán del Sur",
+    "iso_2": "SS"
+  },
+  {
+    "geocodigo": "SSF",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SST",
+    "name_long": "Estados pequeños",
+    "name_short": "Estados pequeños",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "STP",
+    "name_long": "Santo Tomé y Príncipe",
+    "name_short": "Santo Tomé y Príncipe",
+    "iso_2": "ST"
+  },
+  {
+    "geocodigo": "SUR",
+    "name_long": "Suriname",
+    "name_short": "Suriname",
+    "iso_2": "SR"
+  },
+  {
+    "geocodigo": "SVK",
+    "name_long": "Eslovaquia",
+    "name_short": "Eslovaquia",
+    "iso_2": "SK"
+  },
+  {
+    "geocodigo": "SVN",
+    "name_long": "Eslovenia",
+    "name_short": "Eslovenia",
+    "iso_2": "SI"
+  },
+  {
+    "geocodigo": "SVR",
+    "name_long": "Vietnam del Sur (ex)",
+    "name_short": "Vietnam del Sur (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SVU",
+    "name_long": "Unión Soviética",
+    "name_short": "Unión Soviética",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SWE",
+    "name_long": "Suecia",
+    "name_short": "Suecia",
+    "iso_2": "SE"
+  },
+  {
+    "geocodigo": "SWK",
+    "name_long": "Sarawak",
+    "name_short": "Sarawak",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SWZ",
+    "name_long": "Eswatini",
+    "name_short": "Eswatini",
+    "iso_2": "SZ"
+  },
+  {
+    "geocodigo": "SXM",
+    "name_long": "San Martín (parte holandesa)",
+    "name_short": "San Martín (parte holandesa)",
+    "iso_2": "SX"
+  },
+  {
+    "geocodigo": "SYC",
+    "name_long": "Seychelles",
+    "name_short": "Seychelles",
+    "iso_2": "SC"
+  },
+  {
+    "geocodigo": "SYR",
+    "name_long": "Siria",
+    "name_short": "Siria",
+    "iso_2": "SY"
+  },
+  {
+    "geocodigo": "TAN",
+    "name_long": "Tanganica (ex)",
+    "name_short": "Tanganica (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TCA",
+    "name_long": "Islas Turcas y Caicos",
+    "name_short": "Islas Turcas y Caicos",
+    "iso_2": "TC"
+  },
+  {
+    "geocodigo": "TCD",
+    "name_long": "Chad",
+    "name_short": "Chad",
+    "iso_2": "TD"
+  },
+  {
+    "geocodigo": "TEA",
+    "name_long": "Este de Asia y Pacífico",
+    "name_short": "Este de Asia y Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TEC",
+    "name_long": "Europa y Asia Central",
+    "name_short": "Europa y Asia Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TGO",
+    "name_long": "Togo",
+    "name_short": "Togo",
+    "iso_2": "TG"
+  },
+  {
+    "geocodigo": "THA",
+    "name_long": "Tailandia",
+    "name_short": "Tailandia",
+    "iso_2": "TH"
+  },
+  {
+    "geocodigo": "TJK",
+    "name_long": "Tayikistán",
+    "name_short": "Tayikistán",
+    "iso_2": "TJ"
+  },
+  {
+    "geocodigo": "TKL",
+    "name_long": "Tokelau",
+    "name_short": "Tokelau",
+    "iso_2": "TK"
+  },
+  {
+    "geocodigo": "TKM",
+    "name_long": "Turkmenistán",
+    "name_short": "Turkmenistán",
+    "iso_2": "TM"
+  },
+  {
+    "geocodigo": "TLA",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TLS",
+    "name_long": "Timor-Leste",
+    "name_short": "Timor-Leste",
+    "iso_2": "TL"
+  },
+  {
+    "geocodigo": "TMN",
+    "name_long": "Oriente Medio y África del Norte",
+    "name_short": "Oriente Medio y África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TON",
+    "name_long": "Tonga",
+    "name_short": "Tonga",
+    "iso_2": "TO"
+  },
+  {
+    "geocodigo": "TSA",
+    "name_long": "Asia del Sur",
+    "name_short": "Asia del Sur",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TSS",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TTO",
+    "name_long": "Trinidad y Tobago",
+    "name_short": "Trinidad y Tobago",
+    "iso_2": "TT"
+  },
+  {
+    "geocodigo": "TUN",
+    "name_long": "Túnez",
+    "name_short": "Túnez",
+    "iso_2": "TN"
+  },
+  {
+    "geocodigo": "TUR",
+    "name_long": "Turquía",
+    "name_short": "Turquía",
+    "iso_2": "TR"
+  },
+  {
+    "geocodigo": "TUV",
+    "name_long": "Tuvalu",
+    "name_short": "Tuvalu",
+    "iso_2": "TV"
+  },
+  {
+    "geocodigo": "TWN",
+    "name_long": "Taiwán",
+    "name_short": "Taiwán",
+    "iso_2": "TW"
+  },
+  {
+    "geocodigo": "TZA",
+    "name_long": "Tanzanía",
+    "name_short": "Tanzanía",
+    "iso_2": "TZ"
+  },
+  {
+    "geocodigo": "UGA",
+    "name_long": "Uganda",
+    "name_short": "Uganda",
+    "iso_2": "UG"
+  },
+  {
+    "geocodigo": "UKR",
+    "name_long": "Ucrania",
+    "name_short": "Ucrania",
+    "iso_2": "UA"
+  },
+  {
+    "geocodigo": "UMC",
+    "name_long": "Países de ingreso medio alto",
+    "name_short": "Países de ingreso medio alto",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "UMI",
+    "name_long": "Islas menores alejadas de EEUU",
+    "name_short": "Islas menores alejadas de EEUU",
+    "iso_2": "UM"
+  },
+  {
+    "geocodigo": "UNS",
+    "name_long": "No especificado",
+    "name_short": "No especificado",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "URY",
+    "name_long": "Uruguay",
+    "name_short": "Uruguay",
+    "iso_2": "UY"
+  },
+  {
+    "geocodigo": "USA",
+    "name_long": "Estados Unidos",
+    "name_short": "Estados Unidos",
+    "iso_2": "US"
+  },
+  {
+    "geocodigo": "USP",
+    "name_long": "Us Msc.Pac.I",
+    "name_short": "Us Msc.Pac.I",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "UZB",
+    "name_long": "Uzbekistán",
+    "name_short": "Uzbekistán",
+    "iso_2": "UZ"
+  },
+  {
+    "geocodigo": "VAT",
+    "name_long": "Vaticano",
+    "name_short": "Vaticano",
+    "iso_2": "VA"
+  },
+  {
+    "geocodigo": "VCT",
+    "name_long": "San Vicente y las Granadinas",
+    "name_short": "San Vicente y las Granadinas",
+    "iso_2": "VC"
+  },
+  {
+    "geocodigo": "VDR",
+    "name_long": "Vietnam del Norte (ex)",
+    "name_short": "Vietnam del Norte (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "VEN",
+    "name_long": "Venezuela",
+    "name_short": "Venezuela",
+    "iso_2": "VE"
+  },
+  {
+    "geocodigo": "VGB",
+    "name_long": "Islas Vírgenes Británicas",
+    "name_short": "Islas Vírgenes Británicas",
+    "iso_2": "VG"
+  },
+  {
+    "geocodigo": "VIR",
+    "name_long": "Islas Vírgenes de EEUU",
+    "name_short": "Islas Vírgenes de EEUU",
+    "iso_2": "VI"
+  },
+  {
+    "geocodigo": "VNM",
+    "name_long": "Vietnam",
+    "name_short": "Vietnam",
+    "iso_2": "VN"
+  },
+  {
+    "geocodigo": "VUT",
+    "name_long": "Vanuatu",
+    "name_short": "Vanuatu",
+    "iso_2": "VU"
+  },
+  {
+    "geocodigo": "WAK",
+    "name_long": "Isla Wake",
+    "name_short": "Isla Wake",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "WBG",
+    "name_long": "Cisjordania y Gaza",
+    "name_short": "Cisjordania y Gaza",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "WLD",
+    "name_long": "Mundo",
+    "name_short": "Mundo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "WLF",
+    "name_long": "Wallis y Futuna",
+    "name_short": "Wallis y Futuna",
+    "iso_2": "WF"
+  },
+  {
+    "geocodigo": "WSM",
+    "name_long": "Samoa",
+    "name_short": "Samoa",
+    "iso_2": "WS"
+  },
+  {
+    "geocodigo": "X06",
+    "name_long": "África",
+    "name_short": "África",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "X21",
+    "name_long": "Américas",
+    "name_short": "Américas",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "XKX",
+    "name_long": "Kosovo",
+    "name_short": "Kosovo",
+    "iso_2": "XK"
+  },
+  {
+    "geocodigo": "YDR",
+    "name_long": "Rep. Dem. Pop. Yemen",
+    "name_short": "Rep. Dem. Pop. Yemen",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "YEM",
+    "name_long": "Yemen",
+    "name_short": "Yemen",
+    "iso_2": "YE"
+  },
+  {
+    "geocodigo": "YMD",
+    "name_long": "Yemen",
+    "name_short": "Yemen",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZAF",
+    "name_long": "Sudáfrica",
+    "name_short": "Sudáfrica",
+    "iso_2": "ZA"
+  },
+  {
+    "geocodigo": "ZMB",
+    "name_long": "Zambia",
+    "name_short": "Zambia",
+    "iso_2": "ZM"
+  },
+  {
+    "geocodigo": "ZPM",
+    "name_long": "Zanzibar",
+    "name_short": "Zanzibar",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZW1",
+    "name_long": "Rhodesia y Nyasaland (ex)",
+    "name_short": "Rhodesia y Nyasaland (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZWE",
+    "name_long": "Zimbabwe",
+    "name_short": "Zimbabwe",
+    "iso_2": "ZW"
+  },
+  {
+    "geocodigo": "OWID_USS",
+    "name_long": "Unión Soviética",
+    "name_short": "Unión Soviética",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "TRANS",
+    "name_long": "Transporte internacional",
+    "name_short": "Transporte internacional",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "PCI",
+    "name_long": "Islas del Pacífico (ex)",
+    "name_short": "Islas del Pacífico (ex)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ANS",
+    "name_long": "Países no declarados",
+    "name_short": "Países no declarados",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "APEC",
+    "name_long": "Cooperación Económica Asia-Pacífico",
+    "name_short": "Cooperación Económica Asia-Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ASEAN",
+    "name_long": "Asociación de Naciones del Sudeste Asiático",
+    "name_short": "Asociación de Naciones del Sudeste Asiático",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EA19",
+    "name_long": "Eurozona",
+    "name_short": "Eurozona",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EASIA",
+    "name_long": "Asia del Este",
+    "name_short": "Asia del Este",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EU13",
+    "name_long": "Unión Europea (28 países excluyendo EU15)",
+    "name_short": "Unión Europea (28 países excluyendo EU15)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EU15",
+    "name_long": "Unión Europea (15 países)",
+    "name_short": "Unión Europea (15 países)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EU27_2020",
+    "name_long": "Unión Europea (27 países)",
+    "name_short": "Unión Europea (27 países)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EU28",
+    "name_long": "Unión Europea (28 países)",
+    "name_short": "Unión Europea (28 países)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "G20",
+    "name_long": "G-20",
+    "name_short": "G-20",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "NONOECD",
+    "name_long": "Países no miembros de OCDE",
+    "name_short": "Países no miembros de OCDE",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "OECD",
+    "name_long": "Países miembros de OCDE",
+    "name_short": "Países miembros de OCDE",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ROW",
+    "name_long": "Resto del mundo",
+    "name_short": "Resto del mundo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZASI",
+    "name_long": "Este y Sudeste Asiático",
+    "name_short": "Este y Sudeste Asiático",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZEUR",
+    "name_long": "Europa",
+    "name_short": "Europa",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZNAM",
+    "name_long": "América del Norte",
+    "name_short": "América del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZOTH",
+    "name_long": "Otras regiones",
+    "name_short": "Otras regiones",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "ZSCA",
+    "name_long": "América del Sur y Central",
+    "name_short": "América del Sur y Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "OWID_AKD",
+    "name_long": "Akrotiri y Dekelia",
+    "name_short": "Akrotiri y Dekelia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C",
+    "name_long": "CABA",
+    "name_short": "CABA",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B",
+    "name_long": "Buenos Aires",
+    "name_short": "Buenos Aires",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K",
+    "name_long": "Catamarca",
+    "name_short": "Catamarca",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X",
+    "name_long": "Córdoba",
+    "name_short": "Córdoba",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W",
+    "name_long": "Corrientes",
+    "name_short": "Corrientes",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H",
+    "name_long": "Chaco",
+    "name_short": "Chaco",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U",
+    "name_long": "Chubut",
+    "name_short": "Chubut",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E",
+    "name_long": "Entre Ríos",
+    "name_short": "Entre Ríos",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P",
+    "name_long": "Formosa",
+    "name_short": "Formosa",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y",
+    "name_long": "Jujuy",
+    "name_short": "Jujuy",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L",
+    "name_long": "La Pampa",
+    "name_short": "La Pampa",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F",
+    "name_long": "La Rioja",
+    "name_short": "La Rioja",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M",
+    "name_long": "Mendoza",
+    "name_short": "Mendoza",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N",
+    "name_long": "Misiones",
+    "name_short": "Misiones",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q",
+    "name_long": "Neuquén",
+    "name_short": "Neuquén",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R",
+    "name_long": "Río Negro",
+    "name_short": "Río Negro",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A",
+    "name_long": "Salta",
+    "name_short": "Salta",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J",
+    "name_long": "San Juan",
+    "name_short": "San Juan",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D",
+    "name_long": "San Luis",
+    "name_short": "San Luis",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z",
+    "name_long": "Santa Cruz",
+    "name_short": "Santa Cruz",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S",
+    "name_long": "Santa Fe",
+    "name_short": "Santa Fe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G",
+    "name_long": "Santiago del Estero",
+    "name_short": "Santiago del Estero",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T",
+    "name_long": "Tucumán",
+    "name_short": "Tucumán",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-V",
+    "name_long": "Tierra del Fuego",
+    "name_short": "Tierra del Fuego",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C001",
+    "name_long": "Comuna 1 (CABA)",
+    "name_short": "Comuna 1 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C002",
+    "name_long": "Comuna 2 (CABA)",
+    "name_short": "Comuna 2 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C003",
+    "name_long": "Comuna 3 (CABA)",
+    "name_short": "Comuna 3 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C004",
+    "name_long": "Comuna 4 (CABA)",
+    "name_short": "Comuna 4 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C005",
+    "name_long": "Comuna 5 (CABA)",
+    "name_short": "Comuna 5 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C006",
+    "name_long": "Comuna 6 (CABA)",
+    "name_short": "Comuna 6 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C007",
+    "name_long": "Comuna 7 (CABA)",
+    "name_short": "Comuna 7 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C008",
+    "name_long": "Comuna 8 (CABA)",
+    "name_short": "Comuna 8 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C009",
+    "name_long": "Comuna 9 (CABA)",
+    "name_short": "Comuna 9 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C010",
+    "name_long": "Comuna 10 (CABA)",
+    "name_short": "Comuna 10 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C011",
+    "name_long": "Comuna 11 (CABA)",
+    "name_short": "Comuna 11 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C012",
+    "name_long": "Comuna 12 (CABA)",
+    "name_short": "Comuna 12 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C013",
+    "name_long": "Comuna 13 (CABA)",
+    "name_short": "Comuna 13 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C014",
+    "name_long": "Comuna 14 (CABA)",
+    "name_short": "Comuna 14 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-C015",
+    "name_long": "Comuna 15 (CABA)",
+    "name_short": "Comuna 15 (CABA)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B007",
+    "name_long": "Adolfo Alsina (Buenos Aires)",
+    "name_short": "Adolfo Alsina (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B021",
+    "name_long": "Alberti (Buenos Aires)",
+    "name_short": "Alberti (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B028",
+    "name_long": "Alte. Brown (Buenos Aires)",
+    "name_short": "Alte. Brown (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B035",
+    "name_long": "Avellaneda (Buenos Aires)",
+    "name_short": "Avellaneda (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B042",
+    "name_long": "Ayacucho (Buenos Aires)",
+    "name_short": "Ayacucho (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B049",
+    "name_long": "Azul (Buenos Aires)",
+    "name_short": "Azul (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B056",
+    "name_long": "Bahia Blanca (Buenos Aires)",
+    "name_short": "Bahia Blanca (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B063",
+    "name_long": "Balcarce (Buenos Aires)",
+    "name_short": "Balcarce (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B070",
+    "name_long": "Baradero (Buenos Aires)",
+    "name_short": "Baradero (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B077",
+    "name_long": "Bartolome Mitre (Buenos Aires)",
+    "name_short": "Bartolome Mitre (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B091",
+    "name_long": "Berazategui (Buenos Aires)",
+    "name_short": "Berazategui (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B098",
+    "name_long": "Berisso (Buenos Aires)",
+    "name_short": "Berisso (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B105",
+    "name_long": "Bolivar (Buenos Aires)",
+    "name_short": "Bolivar (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B112",
+    "name_long": "Bragado (Buenos Aires)",
+    "name_short": "Bragado (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B119",
+    "name_long": "Brandsen (Buenos Aires)",
+    "name_short": "Brandsen (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B126",
+    "name_long": "Campana (Buenos Aires)",
+    "name_short": "Campana (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B134",
+    "name_long": "Cañuelas (Buenos Aires)",
+    "name_short": "Cañuelas (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B140",
+    "name_long": "Capitan Sarmiento (Buenos Aires)",
+    "name_short": "Capitan Sarmiento (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B147",
+    "name_long": "Carlos Casares (Buenos Aires)",
+    "name_short": "Carlos Casares (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B154",
+    "name_long": "Carlos Tejedor (Buenos Aires)",
+    "name_short": "Carlos Tejedor (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B161",
+    "name_long": "Carmen De Areco (Buenos Aires)",
+    "name_short": "Carmen De Areco (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B602",
+    "name_long": "Patagones (Buenos Aires)",
+    "name_short": "Patagones (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B168",
+    "name_long": "Castelli (Buenos Aires)",
+    "name_short": "Castelli (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B175",
+    "name_long": "Colon (Buenos Aires)",
+    "name_short": "Colon (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B189",
+    "name_long": "Cnel. Dorrego (Buenos Aires)",
+    "name_short": "Cnel. Dorrego (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B196",
+    "name_long": "Cnel. Pringles (Buenos Aires)",
+    "name_short": "Cnel. Pringles (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B182",
+    "name_long": "Cnel. Rosales (Buenos Aires)",
+    "name_short": "Cnel. Rosales (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B203",
+    "name_long": "Cnel. Suárez (Buenos Aires)",
+    "name_short": "Cnel. Suárez (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B210",
+    "name_long": "Chacabuco (Buenos Aires)",
+    "name_short": "Chacabuco (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B217",
+    "name_long": "Chascomús (Buenos Aires)",
+    "name_short": "Chascomús (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B224",
+    "name_long": "Chivilcoy (Buenos Aires)",
+    "name_short": "Chivilcoy (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B231",
+    "name_long": "Daireaux (Buenos Aires)",
+    "name_short": "Daireaux (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B238",
+    "name_long": "Dolores (Buenos Aires)",
+    "name_short": "Dolores (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B245",
+    "name_long": "Ensenada (Buenos Aires)",
+    "name_short": "Ensenada (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B252",
+    "name_long": "Escobar (Buenos Aires)",
+    "name_short": "Escobar (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B260",
+    "name_long": "Esteban Echeverría (Buenos Aires)",
+    "name_short": "Esteban Echeverría (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B266",
+    "name_long": "Exaltación de la Cruz (Buenos Aires)",
+    "name_short": "Exaltación de la Cruz (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B274",
+    "name_long": "Florencio Varela (Buenos Aires)",
+    "name_short": "Gral. Alvarado (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B280",
+    "name_long": "Gral. Alvarado (Buenos Aires)",
+    "name_short": "Gral. Alvear (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B287",
+    "name_long": "Gral. Alvear (Buenos Aires)",
+    "name_short": "Gral. Arenales (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B294",
+    "name_long": "Gral. Arenales (Buenos Aires)",
+    "name_short": "Gral. Belgrano (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B301",
+    "name_long": "Gral. Belgrano (Buenos Aires)",
+    "name_short": "Gral. Guido (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B308",
+    "name_long": "Gral. Guido (Buenos Aires)",
+    "name_short": "Gral. La Madrid (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B322",
+    "name_long": "Gral. La Madrid (Buenos Aires)",
+    "name_short": "Gral. Las Heras (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B329",
+    "name_long": "Gral. Las Heras (Buenos Aires)",
+    "name_short": "Gral. Lavalle (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B336",
+    "name_long": "Gral. Lavalle (Buenos Aires)",
+    "name_short": "Gral. Juan Madariaga (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B315",
+    "name_long": "Gral. Juan Madariaga (Buenos Aires)",
+    "name_short": "Gral. Paz (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B343",
+    "name_long": "Gral. Paz (Buenos Aires)",
+    "name_short": "Gral. Pinto (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B351",
+    "name_long": "Gral. Pinto (Buenos Aires)",
+    "name_short": "General Pinto (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B357",
+    "name_long": "Gral. Pueyrredón (Buenos Aires)",
+    "name_short": "Gral. Pueyrredón (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B364",
+    "name_long": "Gral. Rodríguez (Buenos Aires)",
+    "name_short": "Gral. Rodríguez (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B371",
+    "name_long": "Gral. San Martín (Buenos Aires)",
+    "name_short": "Gral. San Martín (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B760",
+    "name_long": "San Miguel (Buenos Aires)",
+    "name_short": "San Miguel (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B385",
+    "name_long": "Gral. Viamonte (Buenos Aires)",
+    "name_short": "Gral. Viamonte (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B392",
+    "name_long": "Gral. Villegas (Buenos Aires)",
+    "name_short": "Gral. Villegas (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B014",
+    "name_long": "Adolfo González Chaves (Buenos Aires)",
+    "name_short": "Adolfo González Chaves (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B399",
+    "name_long": "Guaminí (Buenos Aires)",
+    "name_short": "Guaminí (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B406",
+    "name_long": "Hipólito Yrigoyen (Buenos Aires)",
+    "name_short": "Hipólito Yrigoyen (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B084",
+    "name_long": "Benito Juárez (Buenos Aires)",
+    "name_short": "Benito Juárez (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B413",
+    "name_long": "Junín (Buenos Aires)",
+    "name_short": "Junín (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B427",
+    "name_long": "La Matanza (Buenos Aires)",
+    "name_short": "La Matanza (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B434",
+    "name_long": "Lanús (Buenos Aires)",
+    "name_short": "Lanús (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B441",
+    "name_long": "La Plata (Buenos Aires)",
+    "name_short": "La Plata (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B448",
+    "name_long": "Laprida (Buenos Aires)",
+    "name_short": "Laprida (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B455",
+    "name_long": "Las Flores (Buenos Aires)",
+    "name_short": "Las Flores (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B462",
+    "name_long": "Leandro N. Alem (Buenos Aires)",
+    "name_short": "Leandro N. Alem (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B469",
+    "name_long": "Lincoln (Buenos Aires)",
+    "name_short": "Lincoln (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B476",
+    "name_long": "Lobería (Buenos Aires)",
+    "name_short": "Lobería (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B483",
+    "name_long": "Lobos (Buenos Aires)",
+    "name_short": "Lobos (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B490",
+    "name_long": "Lomas de Zamora (Buenos Aires)",
+    "name_short": "Lomas de Zamora (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B497",
+    "name_long": "Luján (Buenos Aires)",
+    "name_short": "Luján (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B505",
+    "name_long": "Magdalena (Buenos Aires)",
+    "name_short": "Magdalena (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B511",
+    "name_long": "Maipú (Buenos Aires)",
+    "name_short": "Maipú (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B518",
+    "name_long": "Mar Chiquita (Buenos Aires)",
+    "name_short": "Mar Chiquita (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B525",
+    "name_long": "Marcos Paz (Buenos Aires)",
+    "name_short": "Marcos Paz (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B532",
+    "name_long": "Mercedes (Buenos Aires)",
+    "name_short": "Mercedes (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B539",
+    "name_long": "Merlo (Buenos Aires)",
+    "name_short": "Merlo (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B547",
+    "name_long": "Monte (Buenos Aires)",
+    "name_short": "Monte (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B560",
+    "name_long": "Moreno (Buenos Aires)",
+    "name_short": "Moreno (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B568",
+    "name_long": "Morón (Buenos Aires)",
+    "name_short": "Morón (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B574",
+    "name_long": "Navarro (Buenos Aires)",
+    "name_short": "Navarro (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B581",
+    "name_long": "Necochea (Buenos Aires)",
+    "name_short": "Necochea (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B588",
+    "name_long": "9 De Julio (Buenos Aires)",
+    "name_short": "9 De Julio (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B595",
+    "name_long": "Olavarría (Buenos Aires)",
+    "name_short": "Olavarría (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B609",
+    "name_long": "Pehuajó (Buenos Aires)",
+    "name_short": "Pehuajó (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B616",
+    "name_long": "Pellegrini (Buenos Aires)",
+    "name_short": "Pellegrini (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B623",
+    "name_long": "Pergamino (Buenos Aires)",
+    "name_short": "Pergamino (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B630",
+    "name_long": "Pila (Buenos Aires)",
+    "name_short": "Pila (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B638",
+    "name_long": "Pilar (Buenos Aires)",
+    "name_short": "Pilar (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B644",
+    "name_long": "Pinamar (Buenos Aires)",
+    "name_short": "Pinamar (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B651",
+    "name_long": "Puán (Buenos Aires)",
+    "name_short": "Puán (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B658",
+    "name_long": "Quilmes (Buenos Aires)",
+    "name_short": "Quilmes (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B665",
+    "name_long": "Ramallo (Buenos Aires)",
+    "name_short": "Ramallo (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B672",
+    "name_long": "Rauch (Buenos Aires)",
+    "name_short": "Rauch (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B679",
+    "name_long": "Rivadavia (Buenos Aires)",
+    "name_short": "Rivadavia (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B686",
+    "name_long": "Rojas (Buenos Aires)",
+    "name_short": "Rojas (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B693",
+    "name_long": "Roque Pérez (Buenos Aires)",
+    "name_short": "Roque Pérez (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B700",
+    "name_long": "Saavedra (Buenos Aires)",
+    "name_short": "Saavedra (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B707",
+    "name_long": "Saladillo (Buenos Aires)",
+    "name_short": "Saladillo (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B721",
+    "name_long": "Salliqueló (Buenos Aires)",
+    "name_short": "Salliqueló (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B714",
+    "name_long": "Salto (Buenos Aires)",
+    "name_short": "Salto (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B728",
+    "name_long": "San Andrés de Giles (Buenos Aires)",
+    "name_short": "San Andrés de Giles (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B735",
+    "name_long": "San Antonio De Areco (Buenos Aires)",
+    "name_short": "San Antonio De Areco (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B742",
+    "name_long": "San Cayetano (Buenos Aires)",
+    "name_short": "San Cayetano (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B749",
+    "name_long": "San Fernando (Buenos Aires)",
+    "name_short": "San Fernando (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B756",
+    "name_long": "San Isidro (Buenos Aires)",
+    "name_short": "San Isidro (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B763",
+    "name_long": "San Nicolás (Buenos Aires)",
+    "name_short": "San Nicolás (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B770",
+    "name_long": "San Pedro (Buenos Aires)",
+    "name_short": "San Pedro (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B778",
+    "name_long": "San Vicente (Buenos Aires)",
+    "name_short": "San Vicente (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B784",
+    "name_long": "Suipacha (Buenos Aires)",
+    "name_short": "Suipacha (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B791",
+    "name_long": "Tandil (Buenos Aires)",
+    "name_short": "Tandil (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B798",
+    "name_long": "Tapalqué (Buenos Aires)",
+    "name_short": "Tapalqué (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B805",
+    "name_long": "Tigre (Buenos Aires)",
+    "name_short": "Tigre (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B819",
+    "name_long": "Tornquist (Buenos Aires)",
+    "name_short": "Tornquist (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B826",
+    "name_long": "Trenque Lauquen (Buenos Aires)",
+    "name_short": "Trenque Lauquen (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B812",
+    "name_long": "Tordillo (Buenos Aires)",
+    "name_short": "Tordillo (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B833",
+    "name_long": "Tres Arroyos (Buenos Aires)",
+    "name_short": "Tres Arroyos (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B840",
+    "name_long": "Tres de Febrero (Buenos Aires)",
+    "name_short": "Tres de Febrero (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B420",
+    "name_long": "La Costa (Buenos Aires)",
+    "name_short": "La Costa (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B553",
+    "name_long": "Monte Hermoso (Buenos Aires)",
+    "name_short": "Monte Hermoso (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B854",
+    "name_long": "25 De Mayo (Buenos Aires)",
+    "name_short": "25 De Mayo (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B861",
+    "name_long": "Vicente López (Buenos Aires)",
+    "name_short": "Vicente López (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B868",
+    "name_long": "Villa Gesell (Buenos Aires)",
+    "name_short": "Villa Gesell (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B875",
+    "name_long": "Villarino (Buenos Aires)",
+    "name_short": "Villarino (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B882",
+    "name_long": "Zárate (Buenos Aires)",
+    "name_short": "Zárate (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B847",
+    "name_long": "Tres Lomas (Buenos Aires)",
+    "name_short": "Tres Lomas (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B277",
+    "name_long": "Florentino Ameghino (Buenos Aires)",
+    "name_short": "Florentino Ameghino (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B648",
+    "name_long": "Presidente Perón (Buenos Aires)",
+    "name_short": "Presidente Perón (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B412",
+    "name_long": "José C. Paz (Buenos Aires)",
+    "name_short": "José C. Paz (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B515",
+    "name_long": "Malvinas Argentinas (Buenos Aires)",
+    "name_short": "Malvinas Argentinas (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B655",
+    "name_long": "Punta Indio (Buenos Aires)",
+    "name_short": "Punta Indio (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B270",
+    "name_long": "Ezeiza (Buenos Aires)",
+    "name_short": "Ezeiza (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B410",
+    "name_long": "Ituzainigó (Buenos Aires)",
+    "name_short": "Ituzainigó (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B408",
+    "name_long": "Hurlingham (Buenos Aires)",
+    "name_short": "Hurlingham (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-B466",
+    "name_long": "Lezama (Buenos Aires)",
+    "name_short": "Lezama (Buenos Aires)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K049",
+    "name_long": "Capital (Catamarca)",
+    "name_short": "Capital (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K042",
+    "name_long": "Capayán (Catamarca)",
+    "name_short": "Capayán (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K070",
+    "name_long": "La Paz (Catamarca)",
+    "name_short": "La Paz (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K014",
+    "name_long": "Ancasti (Catamarca)",
+    "name_short": "Ancasti (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K056",
+    "name_long": "El Alto (Catamarca)",
+    "name_short": "El Alto (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K098",
+    "name_long": "Santa Rosa (Catamarca)",
+    "name_short": "Santa Rosa (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K077",
+    "name_long": "Paclín (Catamarca)",
+    "name_short": "Paclín (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K112",
+    "name_long": "Valle Viejo (Catamarca)",
+    "name_short": "Valle Viejo (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K063",
+    "name_long": "Fray Mamerto Esquiú (Catamarca)",
+    "name_short": "Fray Mamerto Esquiú (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K007",
+    "name_long": "Ambato (Catamarca)",
+    "name_short": "Ambato (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K084",
+    "name_long": "Pomán (Catamarca)",
+    "name_short": "Pomán (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K021",
+    "name_long": "Andalgalá (Catamarca)",
+    "name_short": "Andalgalá (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K035",
+    "name_long": "Belén (Catamarca)",
+    "name_short": "Belén (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K028",
+    "name_long": "Antofagasta de la Sierra (Catamarca)",
+    "name_short": "Antofagasta de la Sierra (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K105",
+    "name_long": "Tinogasta (Catamarca)",
+    "name_short": "Tinogasta (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-K091",
+    "name_long": "Santa María (Catamarca)",
+    "name_short": "Santa María (Catamarca)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X014",
+    "name_long": "Capital (Córdoba)",
+    "name_short": "Capital (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X007",
+    "name_long": "Calamuchita (Córdoba)",
+    "name_short": "Calamuchita (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X021",
+    "name_long": "Colón (Córdoba)",
+    "name_short": "Colón (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X028",
+    "name_long": "Cruz del Eje (Córdoba)",
+    "name_short": "Cruz del Eje (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X035",
+    "name_long": "Gral. Roca (Córdoba)",
+    "name_short": "Gral. Roca (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X042",
+    "name_long": "Gral. San Martín (Córdoba)",
+    "name_short": "Gral. San Martín (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X049",
+    "name_long": "Ischilín (Córdoba)",
+    "name_short": "Ischilín (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X056",
+    "name_long": "Juárez Celman (Córdoba)",
+    "name_short": "Juárez Celman (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X063",
+    "name_long": "Marcos Juárez (Córdoba)",
+    "name_short": "Marcos Juárez (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X070",
+    "name_long": "Minas (Córdoba)",
+    "name_short": "Minas (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X077",
+    "name_long": "Pocho (Córdoba)",
+    "name_short": "Pocho (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X091",
+    "name_long": "Punilla (Córdoba)",
+    "name_short": "Punilla (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X098",
+    "name_long": "Río Cuarto (Córdoba)",
+    "name_short": "Río Cuarto (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X105",
+    "name_long": "Río Primero (Córdoba)",
+    "name_short": "Río Primero (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X112",
+    "name_long": "Río Seco (Córdoba)",
+    "name_short": "Río Seco (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X119",
+    "name_long": "Río Segundo (Córdoba)",
+    "name_short": "Río Segundo (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X084",
+    "name_long": "Pte. Roque Sáenz Peña (Córdoba)",
+    "name_short": "Pte. Roque Sáenz Peña (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X126",
+    "name_long": "San Alberto (Córdoba)",
+    "name_short": "San Alberto (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X133",
+    "name_long": "San Javier (Córdoba)",
+    "name_short": "San Javier (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X140",
+    "name_long": "San Justo (Córdoba)",
+    "name_short": "San Justo (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X147",
+    "name_long": "Santa Maria (Córdoba)",
+    "name_short": "Santa Maria (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X154",
+    "name_long": "Sobremonte (Córdoba)",
+    "name_short": "Sobremonte (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X161",
+    "name_long": "Tercero Arriba (Córdoba)",
+    "name_short": "Tercero Arriba (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X168",
+    "name_long": "Totoral (Córdoba)",
+    "name_short": "Totoral (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X175",
+    "name_long": "Tulumba (Córdoba)",
+    "name_short": "Tulumba (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-X182",
+    "name_long": "Union (Córdoba)",
+    "name_short": "Union (Córdoba)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W021",
+    "name_long": "Capital (Corrientes)",
+    "name_short": "Capital (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W070",
+    "name_long": "Goya (Corrientes)",
+    "name_short": "Goya (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W035",
+    "name_long": "Curuzú Cuatiá (Corrientes)",
+    "name_short": "Curuzú Cuatiá (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W105",
+    "name_long": "Mercedes (Corrientes)",
+    "name_short": "Mercedes (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W049",
+    "name_long": "Esquina (Corrientes)",
+    "name_short": "Esquina (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W091",
+    "name_long": "Lavalle (Corrientes)",
+    "name_short": "Lavalle (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W168",
+    "name_long": "Santo Tomé (Corrientes)",
+    "name_short": "Santo Tomé (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W119",
+    "name_long": "Paso de los Libres (Corrientes)",
+    "name_short": "Paso de los Libres (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W112",
+    "name_long": "Monte Caseros (Corrientes)",
+    "name_short": "Monte Caseros (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W140",
+    "name_long": "San Luis del Palmar (Corrientes)",
+    "name_short": "San Luis del Palmar (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W007",
+    "name_long": "Bella Vista (Corrientes)",
+    "name_short": "Bella Vista (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W042",
+    "name_long": "Empedrado (Corrientes)",
+    "name_short": "Empedrado (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W161",
+    "name_long": "San Roque (Corrientes)",
+    "name_short": "San Roque (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W063",
+    "name_long": "Gral. Paz (Corrientes)",
+    "name_short": "Gral. Paz (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W126",
+    "name_long": "Saladas (Corrientes)",
+    "name_short": "Saladas (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W147",
+    "name_long": "San Martín (Corrientes)",
+    "name_short": "San Martín (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W028",
+    "name_long": "Concepción (Corrientes)",
+    "name_short": "Concepción (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W098",
+    "name_long": "Mburucuyá (Corrientes)",
+    "name_short": "Mburucuyá (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W084",
+    "name_long": "Ituzaingó (Corrientes)",
+    "name_short": "Ituzaingó (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W175",
+    "name_long": "Sauce (Corrientes)",
+    "name_short": "Sauce (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W133",
+    "name_long": "San Cosme (Corrientes)",
+    "name_short": "San Cosme (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W056",
+    "name_long": "Gral. Alvear (Corrientes)",
+    "name_short": "Gral. Alvear (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W154",
+    "name_long": "San Miguel (Corrientes)",
+    "name_short": "San Miguel (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W077",
+    "name_long": "Itatí (Corrientes)",
+    "name_short": "Itatí (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-W014",
+    "name_long": "Berón de Astrada (Corrientes)",
+    "name_short": "Berón de Astrada (Corrientes)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H140",
+    "name_long": "San Fernando (Chaco)",
+    "name_short": "San Fernando (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H126",
+    "name_long": "1° De Mayo (Chaco)",
+    "name_short": "1° De Mayo (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H077",
+    "name_long": "Libertad (Chaco)",
+    "name_short": "Libertad (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H056",
+    "name_long": "Gral. Donovan (Chaco)",
+    "name_short": "Gral. Donovan (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H154",
+    "name_long": "Sargento Cabral (Chaco)",
+    "name_short": "Sargento Cabral (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H119",
+    "name_long": "Presidencia de la Plaza (Chaco)",
+    "name_short": "Presidencia de la Plaza (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H014",
+    "name_long": "Bermejo (Chaco)",
+    "name_short": "Bermejo (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H084",
+    "name_long": "Libertador Gral. San Martín (Chaco)",
+    "name_short": "Libertador Gral. San Martín (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H161",
+    "name_long": "Tapenaga (Chaco)",
+    "name_short": "Tapenaga (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H147",
+    "name_long": "San Lorenzo (Chaco)",
+    "name_short": "San Lorenzo (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H098",
+    "name_long": "Mayor Luis J. Fontana (Chaco)",
+    "name_short": "Mayor Luis J. Fontana (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H112",
+    "name_long": "O'Higgins (Chaco)",
+    "name_short": "O'Higgins (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H021",
+    "name_long": "Comandante Fernández (Chaco)",
+    "name_short": "Comandante Fernández (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H133",
+    "name_long": "Quitilipi (Chaco)",
+    "name_short": "Quitilipi (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H168",
+    "name_long": "25 de Mayo (Chaco)",
+    "name_short": "25 de Mayo (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H091",
+    "name_long": "Maipú (Chaco)",
+    "name_short": "Maipú (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H070",
+    "name_long": "Independencia (Chaco)",
+    "name_short": "Independencia (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H049",
+    "name_long": "Gral. Belgrano (Chaco)",
+    "name_short": "Gral. Belgrano (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H105",
+    "name_long": "9 de Julio (Chaco)",
+    "name_short": "9 de Julio (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H028",
+    "name_long": "Chacabuco (Chaco)",
+    "name_short": "Chacabuco (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H036",
+    "name_long": "12 de Octubre (Chaco)",
+    "name_short": "12 de Octubre (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H039",
+    "name_long": "2 de Abril (Chaco)",
+    "name_short": "2 de Abril (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H043",
+    "name_long": "Fray Justo S. M. de Oro (Chaco)",
+    "name_short": "Fray Justo S. M. de Oro (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H007",
+    "name_long": "Alte. Brown (Chaco)",
+    "name_short": "Alte. Brown (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-H063",
+    "name_long": "Gral. Güemes (Chaco)",
+    "name_short": "Gral. Güemes (Chaco)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U077",
+    "name_long": "Rawson (Chubut)",
+    "name_short": "Rawson (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U007",
+    "name_long": "Biedma (Chubut)",
+    "name_short": "Biedma (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U105",
+    "name_long": "Telsen (Chubut)",
+    "name_short": "Telsen (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U049",
+    "name_long": "Gastre (Chubut)",
+    "name_short": "Gastre (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U014",
+    "name_long": "Cushamen (Chubut)",
+    "name_short": "Cushamen (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U035",
+    "name_long": "Futaleufú (Chubut)",
+    "name_short": "Futaleufú (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U056",
+    "name_long": "Languiñeo (Chubut)",
+    "name_short": "Languiñeo (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U098",
+    "name_long": "Tehuelches (Chubut)",
+    "name_short": "Tehuelches (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U070",
+    "name_long": "Paso de los Indios (Chubut)",
+    "name_short": "Paso de los Indios (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U063",
+    "name_long": "Mártires (Chubut)",
+    "name_short": "Mártires (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U028",
+    "name_long": "Florentino Ameghino (Chubut)",
+    "name_short": "Florentino Ameghino (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U042",
+    "name_long": "Gaiman (Chubut)",
+    "name_short": "Gaiman (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U084",
+    "name_long": "Río Senguer (Chubut)",
+    "name_short": "v",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U091",
+    "name_long": "Sarmiento (Chubut)",
+    "name_short": "Sarmiento (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-U021",
+    "name_long": "Escalante (Chubut)",
+    "name_short": "Escalante (Chubut)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E084",
+    "name_long": "Paraná (Entre Ríos)",
+    "name_short": "Paraná (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E070",
+    "name_long": "La Paz (Entre Ríos)",
+    "name_short": "La Paz (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E021",
+    "name_long": "Diamante (Entre Ríos)",
+    "name_short": "Diamante (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E105",
+    "name_long": "Victoria (Entre Ríos)",
+    "name_short": "Victoria (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E077",
+    "name_long": "Nogoyá (Entre Ríos)",
+    "name_short": "Nogoyá (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E049",
+    "name_long": "Gualeguay (Entre Ríos)",
+    "name_short": "Gualeguay (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E091",
+    "name_long": "Tala (Entre Ríos)",
+    "name_short": "Tala (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E098",
+    "name_long": "Uruguay (Entre Ríos)",
+    "name_short": "Uruguay (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E056",
+    "name_long": "Gualeguaychú (Entre Ríos)",
+    "name_short": "Gualeguaychú (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E063",
+    "name_long": "Islas del Ibicuy (Entre Ríos)",
+    "name_short": "Islas del Ibicuy (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E113",
+    "name_long": "Villaguay (Entre Ríos)",
+    "name_short": "Villaguay (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E015",
+    "name_long": "Concordia (Entre Ríos)",
+    "name_short": "Concordia (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E035",
+    "name_long": "Federal (Entre Ríos)",
+    "name_short": "Federal (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E008",
+    "name_long": "Colón (Entre Ríos)",
+    "name_short": "Colón (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E042",
+    "name_long": "Feliciano (Entre Ríos)",
+    "name_short": "Feliciano (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E028",
+    "name_long": "Federación (Entre Ríos)",
+    "name_short": "Federación (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-E088",
+    "name_long": "San Salvador (Entre Ríos)",
+    "name_short": "San Salvador (Entre Ríos)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P014",
+    "name_long": "Formosa (Formosa)",
+    "name_short": "Formosa (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P021",
+    "name_long": "Laishi (Formosa)",
+    "name_short": "Laishi (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P049",
+    "name_long": "Pilcomayo (Formosa)",
+    "name_short": "Pilcomayo (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P056",
+    "name_long": "Pirané (Formosa)",
+    "name_short": "Pirané (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P042",
+    "name_long": "Pilagás (Formosa)",
+    "name_short": "Pilagás (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P035",
+    "name_long": "Patiño (Formosa)",
+    "name_short": "Patiño (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P007",
+    "name_long": "Bermejo (Formosa)",
+    "name_short": "Bermejo (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P028",
+    "name_long": "Matacos (Formosa)",
+    "name_short": "Matacos (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-P063",
+    "name_long": "Ramón Lista (Formosa)",
+    "name_short": "Ramón Lista (Formosa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y021",
+    "name_long": "Dr. Manuel Belgrano (Jujuy)",
+    "name_short": "Dr. Manuel Belgrano (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y042",
+    "name_long": "Palpalá (Jujuy)",
+    "name_short": "Palpalá (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y056",
+    "name_long": "San Antonio (Jujuy)",
+    "name_short": "San Antonio (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y014",
+    "name_long": "El Carmen (Jujuy)",
+    "name_short": "El Carmen (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y063",
+    "name_long": "San Pedro (Jujuy)",
+    "name_short": "San Pedro (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y070",
+    "name_long": "Santa Bárbara (Jujuy)",
+    "name_short": "Santa Bárbara (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y035",
+    "name_long": "Ledesma (Jujuy)",
+    "name_short": "Ledesma (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y105",
+    "name_long": "Valle Grande (Jujuy)",
+    "name_short": "Valle Grande (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y098",
+    "name_long": "Tumbaya (Jujuy)",
+    "name_short": "Tumbaya (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y094",
+    "name_long": "Tilcara (Jujuy)",
+    "name_short": "Tilcara (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y028",
+    "name_long": "Humahuaca (Jujuy)",
+    "name_short": "Humahuaca (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y007",
+    "name_long": "Cochinoca (Jujuy)",
+    "name_short": "Cochinoca (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y049",
+    "name_long": "Rinconada (Jujuy)",
+    "name_short": "Rinconada (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y077",
+    "name_long": "Santa Catalina (Jujuy)",
+    "name_short": "Santa Catalina (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y112",
+    "name_long": "Yavi (Jujuy)",
+    "name_short": "Yavi (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Y084",
+    "name_long": "Susques (Jujuy)",
+    "name_short": "Susques (Jujuy)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L007",
+    "name_long": "Atreucó (La Pampa)",
+    "name_short": "Atreucó (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L021",
+    "name_long": "Capital (La Pampa)",
+    "name_short": "Capital (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L014",
+    "name_long": "Caleu Caleu (La Pampa)",
+    "name_short": "Caleu Caleu (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L028",
+    "name_long": "Catriló (La Pampa)",
+    "name_short": "Catriló (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L049",
+    "name_long": "Chalileo (La Pampa)",
+    "name_short": "Chalileo (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L056",
+    "name_long": "Chapaleufú (La Pampa)",
+    "name_short": "Chapaleufú (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L063",
+    "name_long": "Chical Co (La Pampa)",
+    "name_short": "Chical Co (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L035",
+    "name_long": "Conhelo (La Pampa)",
+    "name_short": "Conhelo (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L042",
+    "name_long": "Curacó (La Pampa)",
+    "name_short": "Curacó (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L070",
+    "name_long": "Guatraché (La Pampa)",
+    "name_short": "Guatraché (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L077",
+    "name_long": "Hucal (La Pampa)",
+    "name_short": "Hucal (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L098",
+    "name_long": "Loventué (La Pampa)",
+    "name_short": "Loventué (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L084",
+    "name_long": "Lihuel Calel (La Pampa)",
+    "name_short": "Lihuel Calel (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L091",
+    "name_long": "Limay Mahuida (La Pampa)",
+    "name_short": "Limay Mahuida (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L105",
+    "name_long": "Maracó (La Pampa)",
+    "name_short": "Maracó (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L112",
+    "name_long": "Puelén (La Pampa)",
+    "name_short": "Puelén (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L119",
+    "name_long": "Quemú Quemú (La Pampa)",
+    "name_short": "Quemú Quemú (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L126",
+    "name_long": "Rancul (La Pampa)",
+    "name_short": "Rancul (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L133",
+    "name_long": "Realicó (La Pampa)",
+    "name_short": "Realicó (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L140",
+    "name_long": "Toay (La Pampa)",
+    "name_short": "Toay (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L147",
+    "name_long": "Trenel (La Pampa)",
+    "name_short": "Trenel (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-L154",
+    "name_long": "Utracán (La Pampa)",
+    "name_short": "Utracán (La Pampa)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F014",
+    "name_long": "Capital (La Rioja)",
+    "name_short": "Capital (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F126",
+    "name_long": "Sanagasta (La Rioja)",
+    "name_short": "Sanagasta (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F021",
+    "name_long": "Castro Barros (La Rioja)",
+    "name_short": "Castro Barros (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F007",
+    "name_long": "Arauco (La Rioja)",
+    "name_short": "Arauco (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F119",
+    "name_long": "San Blas de los Sauces (La Rioja)",
+    "name_short": "San Blas de los Sauces (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F042",
+    "name_long": "Chilecito (La Rioja)",
+    "name_short": "Chilecito (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F049",
+    "name_long": "Famatina (La Rioja)",
+    "name_short": "Famatina (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F028",
+    "name_long": "Cnel. Felipe Varela (La Rioja)",
+    "name_short": "Cnel. Felipe Varela (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F077",
+    "name_long": "General Lamadrid (La Rioja)",
+    "name_short": "General Lamadrid (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F098",
+    "name_long": "Vinchina (La Rioja)",
+    "name_short": "Vinchina (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F105",
+    "name_long": "Independencia (La Rioja)",
+    "name_short": "Independencia (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F035",
+    "name_long": "Chamical (La Rioja)",
+    "name_short": "Chamical (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F056",
+    "name_long": "Gral. Angel V. Peñaloza (La Rioja)",
+    "name_short": "Gral. Angel V. Peñaloza (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F063",
+    "name_long": "Gral. Belgrano (La Rioja)",
+    "name_short": "Gral. Belgrano (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F070",
+    "name_long": "Gral. Juan F. Quiroga (La Rioja)",
+    "name_short": "Gral. Juan F. Quiroga (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F084",
+    "name_long": "Gral. Ocampo (La Rioja)",
+    "name_short": "Gral. Ocampo (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F112",
+    "name_long": "Rosario Vera Peñaloza (La Rioja)",
+    "name_short": "Rosario Vera Peñaloza (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-F091",
+    "name_long": "Gral. San Martín (La Rioja)",
+    "name_short": "Gral. San Martín (La Rioja)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M007",
+    "name_long": "Capital (Mendoza)",
+    "name_short": "Capital (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M021",
+    "name_long": "Godoy Cruz (Mendoza)",
+    "name_short": "Godoy Cruz (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M028",
+    "name_long": "Guaymallén (Mendoza)",
+    "name_short": "Guaymallén (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M049",
+    "name_long": "Las Heras (Mendoza)",
+    "name_short": "Las Heras (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M056",
+    "name_long": "Lavalle (Mendoza)",
+    "name_short": "Lavalle (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M070",
+    "name_long": "Maipú (Mendoza)",
+    "name_short": "Maipú (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M063",
+    "name_long": "Luján de Cuyo (Mendoza)",
+    "name_short": "Luján de Cuyo (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M126",
+    "name_long": "Tupungato (Mendoza)",
+    "name_short": "Tupungato (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M098",
+    "name_long": "San Martín (Mendoza)",
+    "name_short": "San Martín (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M035",
+    "name_long": "Junín (Mendoza)",
+    "name_short": "Junín (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M084",
+    "name_long": "Rivadavia (Mendoza)",
+    "name_short": "Rivadavia (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M119",
+    "name_long": "Tunuyán (Mendoza)",
+    "name_short": "Tunuyán (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M091",
+    "name_long": "San Carlos (Mendoza)",
+    "name_short": "San Carlos (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M112",
+    "name_long": "Santa Rosa (Mendoza)",
+    "name_short": "Santa Rosa (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M042",
+    "name_long": "La Paz (Mendoza)",
+    "name_short": "La Paz (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M105",
+    "name_long": "San Rafael (Mendoza)",
+    "name_short": "San Rafael (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M077",
+    "name_long": "Malargüe (Mendoza)",
+    "name_short": "Malargüe (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-M014",
+    "name_long": "Gral. Alvear (Mendoza)",
+    "name_short": "Gral. Alvear (Mendoza)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N028",
+    "name_long": "Capital (Misiones)",
+    "name_short": "Capital (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N007",
+    "name_long": "Apóstoles (Misiones)",
+    "name_short": "Apóstoles (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N021",
+    "name_long": "Candelaria (Misiones)",
+    "name_short": "Candelaria (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N070",
+    "name_long": "Leandro N. Alem (Misiones)",
+    "name_short": "Leandro N. Alem (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N035",
+    "name_long": "Concepcion (Misiones)",
+    "name_short": "Concepcion (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N105",
+    "name_long": "San Javier (Misiones)",
+    "name_short": "San Javier (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N098",
+    "name_long": "San Ignacio (Misiones)",
+    "name_short": "San Ignacio (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N091",
+    "name_long": "Oberá (Misiones)",
+    "name_short": "Oberá (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N077",
+    "name_long": "Libertador Gral. San Martín (Misiones)",
+    "name_short": "Libertador Gral. San Martín (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N014",
+    "name_long": "Cainguás (Misiones)",
+    "name_short": "Cainguás (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N119",
+    "name_long": "25 de Mayo (Misiones)",
+    "name_short": "25 de Mayo (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N084",
+    "name_long": "Montecarlo (Misiones)",
+    "name_short": "Montecarlo (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N056",
+    "name_long": "Guaraní (Misiones)",
+    "name_short": "Guaraní (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N042",
+    "name_long": "El Dorado (Misiones)",
+    "name_short": "El Dorado (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N112",
+    "name_long": "San Pedro (Misiones)",
+    "name_short": "San Pedro (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N063",
+    "name_long": "Iguazú (Misiones)",
+    "name_short": "Iguazú (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-N049",
+    "name_long": "Gral. Manuel Belgrano (Misiones)",
+    "name_short": "Gral. Manuel Belgrano (Misiones)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q035",
+    "name_long": "Confluencia (Neuquén)",
+    "name_short": "Confluencia (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q112",
+    "name_long": "Zapala (Neuquén)",
+    "name_short": "Zapala (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q014",
+    "name_long": "Añelo (Neuquén)",
+    "name_short": "Añelo (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q091",
+    "name_long": "Pehuenches (Neuquén)",
+    "name_short": "Pehuenches (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q042",
+    "name_long": "Chos Malal (Neuquén)",
+    "name_short": "Chos Malal (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q077",
+    "name_long": "Minas (Neuquén)",
+    "name_short": "Minas (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q084",
+    "name_long": "Ñorquín (Neuquén)",
+    "name_short": "Ñorquín (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q063",
+    "name_long": "Loncopué (Neuquén)",
+    "name_short": "Loncopué (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q105",
+    "name_long": "Picunches (Neuquén)",
+    "name_short": "Picunches (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q007",
+    "name_long": "Aluminé (Neuquén)",
+    "name_short": "Aluminé (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q021",
+    "name_long": "Catan Lil (Neuquén)",
+    "name_short": "Catan Lil (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q098",
+    "name_long": "Picún Leufú (Neuquén)",
+    "name_short": "Picún Leufú (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q028",
+    "name_long": "Collon Curá (Neuquén)",
+    "name_short": "Collon Curá (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q049",
+    "name_long": "Huiliches (Neuquén)",
+    "name_short": "Huiliches (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q056",
+    "name_long": "Lácar (Neuquén)",
+    "name_short": "Lácar (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Q070",
+    "name_long": "Los Lagos (Neuquén)",
+    "name_short": "Los Lagos (Neuquén)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R007",
+    "name_long": "Adolfo Alsina (Río Negro)",
+    "name_short": "Adolfo Alsina (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R028",
+    "name_long": "Conesa (Río Negro)",
+    "name_short": "Conesa (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R077",
+    "name_long": "San Antonio (Río Negro)",
+    "name_short": "San Antonio (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R084",
+    "name_long": "Valcheta (Río Negro)",
+    "name_short": "Valcheta (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R049",
+    "name_long": "9 de Julio (Río Negro)",
+    "name_short": "9 de Julio (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R091",
+    "name_long": "25 de Mayo (Río Negro)",
+    "name_short": "25 de Mayo (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R056",
+    "name_long": "Ñorquinco (Río Negro)",
+    "name_short": "Ñorquinco (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R070",
+    "name_long": "Pilcaniyeu (Río Negro)",
+    "name_short": "Pilcaniyeu (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R021",
+    "name_long": "Bariloche (Río Negro)",
+    "name_short": "Bariloche (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R063",
+    "name_long": "Pichi Mahuida (Río Negro)",
+    "name_short": "Pichi Mahuida (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R014",
+    "name_long": "Avellaneda (Río Negro)",
+    "name_short": "Avellaneda (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R042",
+    "name_long": "Gral. Roca (Río Negro)",
+    "name_short": "Gral. Roca (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-R035",
+    "name_long": "El Cuy (Río Negro)",
+    "name_short": "El Cuy (Río Negro)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A028",
+    "name_long": "Capital (Salta)",
+    "name_short": "Capital (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A077",
+    "name_long": "La Caldera (Salta)",
+    "name_short": "La Caldera (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A049",
+    "name_long": "Gral. Güemes (Salta)",
+    "name_short": "Gral. Güemes (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A112",
+    "name_long": "Metán (Salta)",
+    "name_short": "Metán (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A007",
+    "name_long": "Anta (Salta)",
+    "name_short": "Anta (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A133",
+    "name_long": "Rivadavia (Salta)",
+    "name_short": "Rivadavia (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A126",
+    "name_long": "Orán (Salta)",
+    "name_short": "Orán (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A056",
+    "name_long": "Gral. Jose de San Martín (Salta)",
+    "name_short": "Gral. Jose de San Martín (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A070",
+    "name_long": "Iruya (Salta)",
+    "name_short": "Iruya (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A161",
+    "name_long": "Santa Victoria (Salta)",
+    "name_short": "Santa Victoria (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A035",
+    "name_long": "Cerrillos (Salta)",
+    "name_short": "Cerrillos (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A042",
+    "name_long": "Chicoana (Salta)",
+    "name_short": "Chicoana (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A098",
+    "name_long": "La Viña (Salta)",
+    "name_short": "La Viña (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A063",
+    "name_long": "Guachipas (Salta)",
+    "name_short": "Guachipas (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A140",
+    "name_long": "Rosario de la Frontera (Salta)",
+    "name_short": "Rosario de la Frontera (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A084",
+    "name_long": "La Candelaria (Salta)",
+    "name_short": "La Candelaria (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A021",
+    "name_long": "Cafayate (Salta)",
+    "name_short": "Cafayate (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A154",
+    "name_long": "San Carlos (Salta)",
+    "name_short": "San Carlos (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A119",
+    "name_long": "Molinos (Salta)",
+    "name_short": "Molinos (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A014",
+    "name_long": "Cachi (Salta)",
+    "name_short": "Cachi (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A147",
+    "name_long": "Rosario de Lerma (Salta)",
+    "name_short": "Rosario de Lerma (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A091",
+    "name_long": "La Poma (Salta)",
+    "name_short": "La Poma (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-A105",
+    "name_long": "Los Andes (Salta)",
+    "name_short": "Los Andes (Salta)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J028",
+    "name_long": "Capital (San Juan)",
+    "name_short": "Capital (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J098",
+    "name_long": "Santa Lucía (San Juan)",
+    "name_short": "Santa Lucía (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J042",
+    "name_long": "Chimbas (San Juan)",
+    "name_short": "Chimbas (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J084",
+    "name_long": "Rivadavia (San Juan)",
+    "name_short": "Rivadavia (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J133",
+    "name_long": "Zonda (San Juan)",
+    "name_short": "Zonda (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J077",
+    "name_long": "Rawson (San Juan)",
+    "name_short": "Rawson (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J434",
+    "name_long": "9 de Julio (San Juan)",
+    "name_short": "9 de Julio (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J091",
+    "name_long": "San Martín (San Juan)",
+    "name_short": "San Martín (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J014",
+    "name_long": "Angaco (San Juan)",
+    "name_short": "Angaco (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J007",
+    "name_long": "Albardón (San Juan)",
+    "name_short": "Albardón (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J112",
+    "name_long": "Ullum (San Juan)",
+    "name_short": "Ullum (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J070",
+    "name_long": "Pocito (San Juan)",
+    "name_short": "Pocito (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J105",
+    "name_long": "Sarmiento (San Juan)",
+    "name_short": "Sarmiento (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J126",
+    "name_long": "25 de Mayo (San Juan)",
+    "name_short": "25 de Mayo (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J035",
+    "name_long": "Caucete (San Juan)",
+    "name_short": "Caucete (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J119",
+    "name_long": "Valle Fértil (San Juan)",
+    "name_short": "Valle Fértil (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J056",
+    "name_long": "Jáchal (San Juan)",
+    "name_short": "Jáchal (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J049",
+    "name_long": "Iglesia (San Juan)",
+    "name_short": "Iglesia (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-J021",
+    "name_long": "Calingasta (San Juan)",
+    "name_short": "Calingasta (San Juan)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D056",
+    "name_long": "La Capital (San Luis)",
+    "name_short": "La Capital (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D021",
+    "name_long": "Coronel Pringles (San Luis)",
+    "name_short": "Coronel Pringles (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D035",
+    "name_long": "Gral. Pedernera (San Luis)",
+    "name_short": "Gral. Pedernera (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D028",
+    "name_long": "Chacabuco (San Luis)",
+    "name_short": "Chacabuco (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D063",
+    "name_long": "Libertador Gral. San Martín (San Luis)",
+    "name_short": "Libertador Gral. San Martín (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D049",
+    "name_long": "Junín (San Luis)",
+    "name_short": "Junín (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D007",
+    "name_long": "Ayacucho (San Luis)",
+    "name_short": "Ayacucho (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D014",
+    "name_long": "Belgrano (San Luis)",
+    "name_short": "Belgrano (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-D042",
+    "name_long": "Gobernador Dupuy (San Luis)",
+    "name_short": "Gobernador Dupuy (San Luis)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z014",
+    "name_long": "Deseado (Santa Cruz)",
+    "name_short": "Deseado (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z035",
+    "name_long": "Lago Buenos Aires (Santa Cruz)",
+    "name_short": "Lago Buenos Aires (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z042",
+    "name_long": "Magallanes (Santa Cruz)",
+    "name_short": "Magallanes (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z049",
+    "name_long": "Río Chico (Santa Cruz)",
+    "name_short": "Río Chico (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z007",
+    "name_long": "Corpen Aike (Santa Cruz)",
+    "name_short": "Corpen Aike (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z028",
+    "name_long": "Lago Argentino (Santa Cruz)",
+    "name_short": "Lago Argentino (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-Z021",
+    "name_long": "Güer Aike (Santa Cruz)",
+    "name_short": "Güer Aike (Santa Cruz)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S007",
+    "name_long": "Belgrano (Santa Fe)",
+    "name_short": "Belgrano (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S014",
+    "name_long": "Caseros (Santa Fe)",
+    "name_short": "Caseros (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S021",
+    "name_long": "Castellanos (Santa Fe)",
+    "name_short": "Castellanos (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S028",
+    "name_long": "Constitución (Santa Fe)",
+    "name_short": "Constitución (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S035",
+    "name_long": "Garay (Santa Fe)",
+    "name_short": "Garay (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S042",
+    "name_long": "Gral. López (Santa Fe)",
+    "name_short": "Gral. López (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S049",
+    "name_long": "General Obligado (Santa Fe)",
+    "name_short": "General Obligado (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S056",
+    "name_long": "Iriondo (Santa Fe)",
+    "name_short": "Iriondo (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S063",
+    "name_long": "La Capital (Santa Fe)",
+    "name_short": "La Capital (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S070",
+    "name_long": "Las Colonias (Santa Fe)",
+    "name_short": "Las Colonias (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S077",
+    "name_long": "9 de Julio (Santa Fe)",
+    "name_short": "9 de Julio (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S084",
+    "name_long": "Rosario (Santa Fe)",
+    "name_short": "Rosario (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S091",
+    "name_long": "San Cristóbal (Santa Fe)",
+    "name_short": "San Cristóbal (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S098",
+    "name_long": "San Javier (Santa Fe)",
+    "name_short": "San Javier (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S105",
+    "name_long": "San Jerónimo (Santa Fe)",
+    "name_short": "San Jerónimo (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S112",
+    "name_long": "San Justo (Santa Fe)",
+    "name_short": "San Justo (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S119",
+    "name_long": "San Lorenzo (Santa Fe)",
+    "name_short": "San Lorenzo (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S126",
+    "name_long": "San Martin (Santa Fe)",
+    "name_short": "San Martin (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-S133",
+    "name_long": "Vera (Santa Fe)",
+    "name_short": "Vera (Santa Fe)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G049",
+    "name_long": "Capital (Santiago del Estero)",
+    "name_short": "Capital (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G028",
+    "name_long": "Avellaneda (Santiago del Estero)",
+    "name_short": "Avellaneda (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G007",
+    "name_long": "Aguirre (Santiago del Estero)",
+    "name_short": "Aguirre (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G014",
+    "name_long": "Alberdi (Santiago del Estero)",
+    "name_short": "Alberdi (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G021",
+    "name_long": "Atamisqui (Santiago del Estero)",
+    "name_short": "Atamisqui (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G035",
+    "name_long": "Banda (Santiago del Estero)",
+    "name_short": "Banda (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G042",
+    "name_long": "Belgrano (Santiago del Estero)",
+    "name_short": "Belgrano (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G056",
+    "name_long": "Copo (Santiago del Estero)",
+    "name_short": "Copo (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G063",
+    "name_long": "Choya (Santiago del Estero)",
+    "name_short": "Choya (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G070",
+    "name_long": "Figueroa (Santiago del Estero)",
+    "name_short": "Figueroa (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G084",
+    "name_long": "Guasayán (Santiago del Estero)",
+    "name_short": "Guasayán (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G091",
+    "name_long": "Jiménez (Santiago del Estero)",
+    "name_short": "Jiménez (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G105",
+    "name_long": "Loreto (Santiago del Estero)",
+    "name_short": "Loreto (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G098",
+    "name_long": "Juan F. Ibarra (Santiago del Estero)",
+    "name_short": "Juan F. Ibarra (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G112",
+    "name_long": "Mitre (Santiago del Estero)",
+    "name_short": "Mitre (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G119",
+    "name_long": "Moreno (Santiago del Estero)",
+    "name_short": "Moreno (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G126",
+    "name_long": "Ojo de Agua (Santiago del Estero)",
+    "name_short": "Ojo de Agua (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G133",
+    "name_long": "Pellegrini (Santiago del Estero)",
+    "name_short": "Pellegrini (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G140",
+    "name_long": "Quebrachos (Santiago del Estero)",
+    "name_short": "Quebrachos (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G154",
+    "name_long": "Rivadavia (Santiago del Estero)",
+    "name_short": "Rivadavia (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G161",
+    "name_long": "Robles (Santiago del Estero)",
+    "name_short": "Robles (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G147",
+    "name_long": "Río Hondo (Santiago del Estero)",
+    "name_short": "Río Hondo (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G189",
+    "name_long": "Silipica (Santiago del Estero)",
+    "name_short": "Silipica (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G175",
+    "name_long": "San Martín (Santiago del Estero)",
+    "name_short": "San Martín (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G168",
+    "name_long": "Salavina (Santiago del Estero)",
+    "name_short": "Salavina (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G182",
+    "name_long": "Sarmiento (Santiago del Estero)",
+    "name_short": "Sarmiento (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-G077",
+    "name_long": "Gral. Taboada (Santiago del Estero)",
+    "name_short": "Gral. Taboada (Santiago del Estero)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T084",
+    "name_long": "Capital (Tucumán)",
+    "name_short": "Capital (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T063",
+    "name_long": "Lules (Tucumán)",
+    "name_short": "Lules (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T028",
+    "name_long": "Famaillá (Tucumán)",
+    "name_short": "Famaillá (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T070",
+    "name_long": "Monteros (Tucumán)",
+    "name_short": "Monteros (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T021",
+    "name_long": "Chicligasta (Tucumán)",
+    "name_short": "Chicligasta (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T077",
+    "name_long": "Río Chico (Tucumán)",
+    "name_short": "Río Chico (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T042",
+    "name_long": "Juan B. Alberdi (Tucumán)",
+    "name_short": "Juan B. Alberdi (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T049",
+    "name_long": "La Cocha (Tucumán)",
+    "name_short": "La Cocha (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T035",
+    "name_long": "Graneros (Tucumán)",
+    "name_short": "Graneros (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T091",
+    "name_long": "Simoca (Tucumán)",
+    "name_short": "Simoca (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T056",
+    "name_long": "Leales (Tucumán)",
+    "name_short": "Leales (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T014",
+    "name_long": "Cruz Alta (Tucumán)",
+    "name_short": "Cruz Alta (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T007",
+    "name_long": "Burruyacú (Tucumán)",
+    "name_short": "Burruyacú (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T112",
+    "name_long": "Trancas (Tucumán)",
+    "name_short": "Trancas (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T119",
+    "name_long": "Yerba Buena (Tucumán)",
+    "name_short": "Yerba Buena (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T105",
+    "name_long": "Tafí Viejo (Tucumán)",
+    "name_short": "Tafí Viejo (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-T098",
+    "name_long": "Tafí Del Valle (Tucumán)",
+    "name_short": "Tafí Del Valle (Tucumán)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-V014",
+    "name_long": "Ushuaia (Tierra del Fuego)",
+    "name_short": "Ushuaia (Tierra del Fuego)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-V007",
+    "name_long": "Río Grande (Tierra del Fuego)",
+    "name_short": "Río Grande (Tierra del Fuego)",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-BAS-CAMMESA",
+    "name_long": "CABA y Buenos Aires",
+    "name_short": "CABA y Buenos Aires",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-CEN-CAMMESA",
+    "name_long": "Centro",
+    "name_short": "Centro",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-COM-CAMMESA",
+    "name_long": "Comahue",
+    "name_short": "Comahue",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-CUY-CAMMESA",
+    "name_long": "Cuyo",
+    "name_short": "Cuyo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-LIT-CAMMESA",
+    "name_long": "Litoral",
+    "name_short": "Litoral",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-NEA-CAMMESA",
+    "name_long": "NEA",
+    "name_short": "NEA",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-NOA-CAMMESA",
+    "name_long": "NOA",
+    "name_short": "NOA",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-PAT-CAMMESA",
+    "name_long": "Patagonia",
+    "name_short": "Patagonia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-NAC",
+    "name_long": "Nacional",
+    "name_short": "Nacional",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-GBA",
+    "name_long": "Gran Buenos Aires",
+    "name_short": "Gran Buenos Aires",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-NOA",
+    "name_long": "NOA",
+    "name_short": "NOA",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-NEA",
+    "name_long": "NEA",
+    "name_short": "NEA",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-PAM",
+    "name_long": "Pampeana",
+    "name_short": "Pampeana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-CUY",
+    "name_long": "Cuyo",
+    "name_short": "Cuyo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "AR-PAT",
+    "name_long": "Patagonia",
+    "name_short": "Patagonia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SEBACO_AR-B-RESTO",
+    "name_long": "Resto de Buenos Aires",
+    "name_short": "Resto de Buenos Aires",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SEBACO_AR-RESTO",
+    "name_long": "Resto del país",
+    "name_short": "Resto del país",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESIGU_AML",
+    "name_long": "América Latina",
+    "name_short": "América Latina",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MINERI_NO-DIST",
+    "name_long": "No distribuído",
+    "name_short": "No distribuído",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EAS_MPD",
+    "name_long": "Asia Oriental",
+    "name_short": "Asia Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EEU_MPD",
+    "name_long": "Europa Oriental",
+    "name_short": "Europa Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "LAC_MPD",
+    "name_long": "América Latina",
+    "name_short": "América Latina",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MNA_MPD",
+    "name_long": "Medio Oriente y África del Norte",
+    "name_short": "Medio Oriente y África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SEA_MPD",
+    "name_long": "Asia del Sur y Sudeste",
+    "name_short": "Asia del Sur y Sudeste",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SSA_MPD",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "WEU_MPD",
+    "name_long": "Europa Occidental",
+    "name_short": "Europa Occidental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "WOF_MPD",
+    "name_long": "Ramificaciones de Occidente",
+    "name_short": "Ramificaciones de Occidente",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CRECIM_AML-RESTO",
+    "name_long": "Resto de América Latina",
+    "name_short": "Resto de América Latina",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZA.VHHD",
+    "name_long": "Países de desarrollo humano muy alto",
+    "name_short": "Países de desarrollo humano muy alto",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZB.HHD",
+    "name_long": "Países de desarrollo humano alto",
+    "name_short": "Países de desarrollo humano alto",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZC.MHD",
+    "name_long": "Países de desarrollo humano medio",
+    "name_short": "Países de desarrollo humano medio",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZD.LHD",
+    "name_long": "Países de desarrollo humano bajo",
+    "name_short": "Países de desarrollo humano bajo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZE.AS",
+    "name_long": "Estados árabes",
+    "name_short": "Estados árabes",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZF.EAP",
+    "name_long": "Este de Asia y Pacífico",
+    "name_short": "Este de Asia y Pacífico",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZG.ECA",
+    "name_long": "Europa y Asia Central",
+    "name_short": "Europa y Asia Central",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZH.LAC",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZI.SA",
+    "name_long": "Asia meridional",
+    "name_short": "Asia meridional",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_ZZJ.SSA",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "MERTRA_TOTAL",
+    "name_long": "Total",
+    "name_short": "Total",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.EAS",
+    "name_long": "Asia Oriental",
+    "name_short": "Asia Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.EEU",
+    "name_long": "Europa Oriental",
+    "name_short": "Europa Oriental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.LAC",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.MEA",
+    "name_long": "Medio Oriente",
+    "name_short": "Medio Oriente",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.NAF",
+    "name_long": "África del Norte",
+    "name_short": "África del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.OECD",
+    "name_long": "Países de la OCDE",
+    "name_short": "Países de la OCDE",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.ROW",
+    "name_long": "Países no OCDE",
+    "name_short": "Países no OCDE",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.SAS",
+    "name_long": "Asia del Sur",
+    "name_short": "Asia del Sur",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.SSA",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.WEU",
+    "name_long": "Europa Occidental",
+    "name_short": "Europa Occidental",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.WLD",
+    "name_long": "Mundo",
+    "name_short": "Mundo",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "DESHUM_AHDI.WOF",
+    "name_long": "Ramificaciones de Occidente",
+    "name_short": "Ramificaciones de Occidente",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "NIR",
+    "name_long": "Irlanda del Norte",
+    "name_short": "Irlanda del Norte",
+    "iso_2": ""
+  }
+]
