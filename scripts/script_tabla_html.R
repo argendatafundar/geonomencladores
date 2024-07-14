@@ -60,4 +60,6 @@ jsonlite::fromJSON("geonomenclador.json") %>%
   ))) %>%
   htmlwidgets::prependContent(tags$head(custom_css)) %>%
   htmlwidgets::prependContent(title) %>%
-  htmlwidgets::prependContent(subtitle)
+  htmlwidgets::prependContent(subtitle) %>% 
+  htmlwidgets::saveWidget(selfcontained = T, 
+                          file = here::here("geonomenclador_argendata.html"))
