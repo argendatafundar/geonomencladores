@@ -8,3 +8,13 @@ Acceso a explroador del geonomenclador <https://argendatafundar.github.io/geonom
 
 [![](https://github.com/user-attachments/assets/efb26c9f-05b2-484b-8264-24b5dd2a0fd5)](https://argendatafundar.github.io/geonomencladores/geonomenclador_argendata.html)
 
+
+<div align='center'>
+<a href="https://www.github.com/argendatafundar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/af62f153-a62c-44dc-a0f5-f6351d688593">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/917ec92b-52a5-45dd-8dcc-9ab8ab7d63cf">
+    <img src="github.com/argendatafundar"></img>
+  </picture>
+</a>
+</div>
