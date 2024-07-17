@@ -1,4 +1,12 @@
-![geonom-w](https://github.com/user-attachments/assets/a3add638-f86c-452f-bb1d-5dbcc20893a2)
+<div align='left'>
+<a href="https://fund.ar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a3add638-f86c-452f-bb1d-5dbcc20893a2">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/90703034-ef7f-4290-8a5d-2d27c6835fc7">
+    <img src="fund.ar" width="400"></img>
+  </picture>
+</a>
+</div>
 
 El [geonomenclador](https://docs.google.com/spreadsheets/d/1744VS5xENUg1JRCaKr1dGUr73jgP-wz27guIhHvYGbQ) es esencialmente un diccionario que asigna códigos "estandar" a paises y regiones geográficas. Es una parte vital de ArgenData, pues es necesario para armonizar los datos provenientes de distintas bases.
 
