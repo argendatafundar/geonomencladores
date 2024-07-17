@@ -12,6 +12,13 @@ El [geonomenclador](https://docs.google.com/spreadsheets/d/1744VS5xENUg1JRCaKr1d
 
 ![geo_interseccion](./assets/supervenn.png)
 
+Para poder normalizar la nomenclatura de países, se compararon los códigos normalizados de distintas bases (Imágen de arriba) y se priorizaron los códigos según
+la proporción de uso de la base sobre los datasets que tiene el proyecto. Luego, usando técnicas de fuzzy matching se unificaron los nombres de distintos países
+y regiones (Imágen de abajo, muestra un grafo donde cada flecha muestra la similitud entre dos regiones según su nombre).
+
+![image](https://github.com/user-attachments/assets/138357db-8276-4191-a292-99eb22ea68f4)
+
+
 ## Tabla interactiva
 
 Acceso a explorador del geonomenclador <https://argendatafundar.github.io/geonomencladores/geonomenclador_argendata.html>
