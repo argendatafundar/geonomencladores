@@ -462,9 +462,9 @@
     "iso_2": "DZ"
   },
   {
-    "geocodigo": "EAP",
-    "name_long": "Este de Asia y Pacífico",
-    "name_short": "Este de Asia y Pacífico",
+    "geocodigo": "SSF",
+    "name_long": "África Subsahariana",
+    "name_short": "África Subsahariana",
     "iso_2": ""
   },
   {
@@ -474,21 +474,21 @@
     "iso_2": ""
   },
   {
-    "geocodigo": "EAS",
-    "name_long": "Este de Asia y Pacífico",
-    "name_short": "Este de Asia y Pacífico",
+    "geocodigo": "SSA",
+    "name_long": "África Subsahariana (excluidos los Ingresos Altos)",
+    "name_short": "África Subsahariana (excluidos los Ingresos Altos)",
     "iso_2": ""
   },
   {
-    "geocodigo": "ECA",
+    "geocodigo": "TSS",
     "name_long": "Europa y Asia Central",
     "name_short": "Europa y Asia Central",
     "iso_2": ""
   },
   {
-    "geocodigo": "ECS",
-    "name_long": "Europa y Asia Central",
-    "name_short": "Europa y Asia Central",
+    "geocodigo": "LCN",
+    "name_long": "América Latina y el Caribe",
+    "name_short": "América Latina y el Caribe",
     "iso_2": ""
   },
   {
@@ -1332,9 +1332,9 @@
     "iso_2": "LC"
   },
   {
-    "geocodigo": "LCN",
-    "name_long": "América Latina y el Caribe",
-    "name_short": "América Latina y el Caribe",
+    "geocodigo": "TLA",
+    "name_long": "América Latina y el Caribe (IDA y BIRF)",
+    "name_short": "América Latina y el Caribe (IDA y BIRF)",
     "iso_2": ""
   },
   {
@@ -1446,9 +1446,9 @@
     "iso_2": "MV"
   },
   {
-    "geocodigo": "MEA",
-    "name_long": "Oriente Medio y África del Norte",
-    "name_short": "Oriente Medio y África del Norte",
+    "geocodigo": "SAS",
+    "name_long": "Asia del Sur (BM)",
+    "name_short": "Asia del Sur (BM)",
     "iso_2": ""
   },
   {
@@ -1500,7 +1500,7 @@
     "iso_2": "MM"
   },
   {
-    "geocodigo": "MNA",
+    "geocodigo": "TSA",
     "name_long": "Oriente Medio y África del Norte",
     "name_short": "Oriente Medio y África del Norte",
     "iso_2": ""
@@ -1651,8 +1651,8 @@
   },
   {
     "geocodigo": "NZL",
-    "name_long": "Nueva Zelandia",
-    "name_short": "Nueva Zelandia",
+    "name_long": "Nueva Zelanda",
+    "name_short": "Nueva Zelanda",
     "iso_2": "NZ"
   },
   {
@@ -1836,9 +1836,9 @@
     "iso_2": ""
   },
   {
-    "geocodigo": "SAS",
-    "name_long": "Asia del Sur",
-    "name_short": "Asia del Sur",
+    "geocodigo": "EAS",
+    "name_long": "Este de Asia y Pacífico",
+    "name_short": "Este de Asia y Pacífico",
     "iso_2": ""
   },
   {
@@ -1956,9 +1956,9 @@
     "iso_2": "RS"
   },
   {
-    "geocodigo": "SSA",
-    "name_long": "África Subsahariana",
-    "name_short": "África Subsahariana",
+    "geocodigo": "EAP",
+    "name_long": "Este de Asia y Pacífico (excluyendo Países de Altos Ingresos)",
+    "name_short": "Este de Asia y Pacífico (excluyendo Países de Altos Ingresos)",
     "iso_2": ""
   },
   {
@@ -1968,9 +1968,9 @@
     "iso_2": "SS"
   },
   {
-    "geocodigo": "SSF",
-    "name_long": "África Subsahariana",
-    "name_short": "África Subsahariana",
+    "geocodigo": "TEA",
+    "name_long": "Este de Asia y Pacífico (IDA y BIRF)",
+    "name_short": "Este de Asia y Pacífico (IDA y BIRF)",
     "iso_2": ""
   },
   {
@@ -2070,15 +2070,15 @@
     "iso_2": "TD"
   },
   {
-    "geocodigo": "TEA",
-    "name_long": "Este de Asia y Pacífico",
-    "name_short": "Este de Asia y Pacífico",
+    "geocodigo": "ECS",
+    "name_long": "Europa y Asia Central",
+    "name_short": "Europa y Asia Central",
     "iso_2": ""
   },
   {
-    "geocodigo": "TEC",
-    "name_long": "Europa y Asia Central",
-    "name_short": "Europa y Asia Central",
+    "geocodigo": "ECA",
+    "name_long": "Europa y Asia Central (excluyendo Países de Altos Ingresos)",
+    "name_short": "Europa y Asia Central (excluyendo Países de Altos Ingresos)",
     "iso_2": ""
   },
   {
@@ -2112,9 +2112,9 @@
     "iso_2": "TM"
   },
   {
-    "geocodigo": "TLA",
-    "name_long": "América Latina y el Caribe",
-    "name_short": "América Latina y el Caribe",
+    "geocodigo": "TEC",
+    "name_long": "Europa y Asia Central (IDA y BIRF)",
+    "name_short": "Europa y Asia Central (IDA y BIRF)",
     "iso_2": ""
   },
   {
@@ -2124,7 +2124,7 @@
     "iso_2": "TL"
   },
   {
-    "geocodigo": "TMN",
+    "geocodigo": "MEA",
     "name_long": "Oriente Medio y África del Norte",
     "name_short": "Oriente Medio y África del Norte",
     "iso_2": ""
@@ -2136,15 +2136,15 @@
     "iso_2": "TO"
   },
   {
-    "geocodigo": "TSA",
-    "name_long": "Asia del Sur",
-    "name_short": "Asia del Sur",
+    "geocodigo": "MNA",
+    "name_long": "Oriente Medio y África del Norte (excluidos Países de Altos Ingresos)",
+    "name_short": "Oriente Medio y África del Norte (excluidos Países de Altos Ingresos)",
     "iso_2": ""
   },
   {
-    "geocodigo": "TSS",
-    "name_long": "África Subsahariana",
-    "name_short": "África Subsahariana",
+    "geocodigo": "TMN",
+    "name_long": "Oriente Medio y África del Norte (IDA y BIRF)",
+    "name_short": "Oriente Medio y África del Norte (IDA y BIRF)",
     "iso_2": ""
   },
   {
@@ -6123,6 +6123,48 @@
     "geocodigo": "NIR",
     "name_long": "Irlanda del Norte",
     "name_short": "Irlanda del Norte",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "CAMCLI_IA",
+    "name_long": "Aviación internacional",
+    "name_short": "Aviación internacional",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F_ESTPRO",
+    "name_long": "África",
+    "name_short": "África",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "NAFTA_ESTPRO",
+    "name_long": "Países miembros del NAFTA",
+    "name_short": "Países miembros del NAFTA",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "EAZ",
+    "name_long": "Zanzibar",
+    "name_short": "Zanzibar",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "YUG",
+    "name_long": "Yugoslavia",
+    "name_short": "Yugoslavia",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "SUN",
+    "name_long": "Unión Soviética",
+    "name_short": "Unión Soviética",
+    "iso_2": ""
+  },
+  {
+    "geocodigo": "F5503",
+    "name_long": "Micronesia",
+    "name_short": "Micronesia",
     "iso_2": ""
   }
 ]
